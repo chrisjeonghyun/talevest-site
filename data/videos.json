@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-25T09:07:03.484000+00:00",
+  "updatedAt": "2026-09-25T10:07:03.159454+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "tY6Ojs3W6eA",
+      "title": "손절 익절 기준, 90만원에 팔고도 후회하는 이유",
+      "publishedAt": "2026-09-25T10:00:03Z",
+      "duration": "PT36S",
+      "kind": "shorts",
+      "episode": "T020",
+      "url": "https://www.youtube.com/watch?v=tY6Ojs3W6eA"
+    },
     {
       "id": "EIInCCwf0FA",
       "title": "[아케고스] 이틀 만에 사라진 360억 달러",
