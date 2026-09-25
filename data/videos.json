@@ -1,0 +1,269 @@
+{
+  "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
+  "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
+  "updatedAt": "2026-09-25T02:37:30.945660+00:00",
+  "source": "YouTube Data API / cost_tracker / public-only",
+  "videos": [
+    {
+      "id": "EIInCCwf0FA",
+      "title": "[아케고스] 이틀 만에 사라진 360억 달러",
+      "publishedAt": "2026-09-24T12:30:20Z",
+      "duration": "PT5M57S",
+      "kind": "longform",
+      "episode": "S3C01",
+      "url": "https://www.youtube.com/watch?v=EIInCCwf0FA"
+    },
+    {
+      "id": "iIVNx7s37YM",
+      "title": "대출 금리 1%p 인상, 3억원의 연 이자가 늘어나는 금액",
+      "publishedAt": "2026-09-24T10:00:05Z",
+      "duration": "PT36S",
+      "kind": "shorts",
+      "episode": "T041",
+      "url": "https://www.youtube.com/watch?v=iIVNx7s37YM"
+    },
+    {
+      "id": "gIOT8tSWBto",
+      "title": "연준 0.25%p 인상, 내 대출·예금·환율은 언제 확인하나",
+      "publishedAt": "2026-09-24T00:00:11Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "CA003",
+      "url": "https://www.youtube.com/watch?v=gIOT8tSWBto"
+    },
+    {
+      "id": "q3RvoyWDKjw",
+      "title": "[사망신고와 계좌 차단] 다음 날부터 달라지는 금융거래",
+      "publishedAt": "2026-09-23T10:00:21Z",
+      "duration": "PT35S",
+      "kind": "shorts",
+      "episode": "CA002",
+      "url": "https://www.youtube.com/watch?v=q3RvoyWDKjw"
+    },
+    {
+      "id": "a2b6bBdGPQE",
+      "title": "[신용점수] 100만원을 잃어도 500만원 빚은 남는다",
+      "publishedAt": "2026-09-23T00:00:15Z",
+      "duration": "PT37S",
+      "kind": "shorts",
+      "episode": "T094",
+      "url": "https://www.youtube.com/watch?v=a2b6bBdGPQE"
+    },
+    {
+      "id": "eAVs_PPNXgs",
+      "title": "[증거금] 624만원 대 8,000만원, 증거금의 함정",
+      "publishedAt": "2026-09-22T10:00:00Z",
+      "duration": "PT38S",
+      "kind": "shorts",
+      "episode": "T208",
+      "url": "https://www.youtube.com/watch?v=eAVs_PPNXgs"
+    },
+    {
+      "id": "Y1Ja96g3pz4",
+      "title": "[시간외 거래] 100만원이 95만원으로 줄어든 시간",
+      "publishedAt": "2026-09-21T10:00:26Z",
+      "duration": "PT35S",
+      "kind": "shorts",
+      "episode": "T019",
+      "url": "https://www.youtube.com/watch?v=Y1Ja96g3pz4"
+    },
+    {
+      "id": "Uw9sQA7dCUI",
+      "title": "[공포탐욕지수] 20에 팔고 80에 사는 이유",
+      "publishedAt": "2026-09-20T10:00:26Z",
+      "duration": "PT32S",
+      "kind": "shorts",
+      "episode": "T278",
+      "url": "https://www.youtube.com/watch?v=Uw9sQA7dCUI"
+    },
+    {
+      "id": "ObwkpgmGh0M",
+      "title": "[거래량] 100주 주문이 10주만 찍힌 이유",
+      "publishedAt": "2026-09-19T10:00:09Z",
+      "duration": "PT43S",
+      "kind": "shorts",
+      "episode": "T013",
+      "url": "https://www.youtube.com/watch?v=ObwkpgmGh0M"
+    },
+    {
+      "id": "7zXPO0pBX8E",
+      "title": "[호가와 스프레드] 1만 원을 보고 샀는데 1만 100원인 이유",
+      "publishedAt": "2026-09-18T10:00:07Z",
+      "duration": "PT36S",
+      "kind": "shorts",
+      "episode": "T011",
+      "url": "https://www.youtube.com/watch?v=7zXPO0pBX8E"
+    },
+    {
+      "id": "JNsyUM7GO64",
+      "title": "[마진콜] 40% 하락이 80% 손실이 되는 이유",
+      "publishedAt": "2026-09-17T10:00:33Z",
+      "duration": "PT37S",
+      "kind": "shorts",
+      "episode": "T207",
+      "url": "https://www.youtube.com/watch?v=JNsyUM7GO64"
+    },
+    {
+      "id": "VUwFEpMCDCs",
+      "title": "[보통주·우선주] 같은 회사인데 왜 더 쌀까",
+      "publishedAt": "2026-09-16T15:40:53Z",
+      "duration": "PT30S",
+      "kind": "shorts",
+      "episode": "T008",
+      "url": "https://www.youtube.com/watch?v=VUwFEpMCDCs"
+    },
+    {
+      "id": "CUezgxAfFMk",
+      "title": "[빚투·강제청산] 한국 계좌를 덮친 강제청산",
+      "publishedAt": "2026-09-16T15:36:24Z",
+      "duration": "PT29S",
+      "kind": "shorts",
+      "episode": "T016",
+      "url": "https://www.youtube.com/watch?v=CUezgxAfFMk"
+    },
+    {
+      "id": "PsR5lOCaWbU",
+      "title": "[상장폐지] 아침에 사라진 내 주식",
+      "publishedAt": "2026-09-16T15:30:54Z",
+      "duration": "PT31S",
+      "kind": "shorts",
+      "episode": "T029",
+      "url": "https://www.youtube.com/watch?v=PsR5lOCaWbU"
+    },
+    {
+      "id": "DJu7auS3kWY",
+      "title": "[액면분할] 265만 원이 5만 원 된 이유",
+      "publishedAt": "2026-09-16T15:26:21Z",
+      "duration": "PT36S",
+      "kind": "shorts",
+      "episode": "T009",
+      "url": "https://www.youtube.com/watch?v=DJu7auS3kWY"
+    },
+    {
+      "id": "YTlERMlr1-c",
+      "title": "[불 마켓과 베어 마켓] 16일 만에 온 베어 마켓",
+      "publishedAt": "2026-09-16T15:21:26Z",
+      "duration": "PT32S",
+      "kind": "shorts",
+      "episode": "T010",
+      "url": "https://www.youtube.com/watch?v=YTlERMlr1-c"
+    },
+    {
+      "id": "Fkhsodi_nSA",
+      "title": "[튤립 버블] 꽃 한 송이가 저택 한 채 값이 됐습니다",
+      "publishedAt": "2026-09-13T10:00:11Z",
+      "duration": "PT15S",
+      "kind": "shorts",
+      "episode": "EP004-HL01",
+      "url": "https://www.youtube.com/watch?v=Fkhsodi_nSA"
+    },
+    {
+      "id": "Df-GRjTy9ak",
+      "title": "[배당] 8만원 받고 15만원 잃는 날",
+      "publishedAt": "2026-09-11T10:00:12Z",
+      "duration": "PT29S",
+      "kind": "shorts",
+      "episode": "T007",
+      "url": "https://www.youtube.com/watch?v=Df-GRjTy9ak"
+    },
+    {
+      "id": "7bLb1ssYj9A",
+      "title": "[IPO] 공모가는 약속이 아니다",
+      "publishedAt": "2026-09-10T10:00:24Z",
+      "duration": "PT28S",
+      "kind": "shorts",
+      "episode": "T006",
+      "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
+    },
+    {
+      "id": "tS50Z6NRNDQ",
+      "title": "[S&P 500·나스닥] 숫자가 말해주지 않는 분산",
+      "publishedAt": "2026-09-09T10:00:31Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "T005",
+      "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
+    },
+    {
+      "id": "Xk_QPrv6aZY",
+      "title": "[코스피·코스닥] 코스피와 코스닥의 차이",
+      "publishedAt": "2026-09-08T10:00:04Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "T004",
+      "url": "https://www.youtube.com/watch?v=Xk_QPrv6aZY"
+    },
+    {
+      "id": "vsGVmrSKaKY",
+      "title": "[코스피200 ETF] 이 상품에 넣은 돈의 4분의 1이 한 회사로 갑니다",
+      "publishedAt": "2026-09-04T10:00:10Z",
+      "duration": "PT32S",
+      "kind": "shorts",
+      "episode": "EP001",
+      "url": "https://www.youtube.com/watch?v=vsGVmrSKaKY"
+    },
+    {
+      "id": "wUY7SVvbn0Q",
+      "title": "[서킷브레이커·사이드카] 매도 버튼이 죽었습니다",
+      "publishedAt": "2026-09-03T12:30:34Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "T018",
+      "url": "https://www.youtube.com/watch?v=wUY7SVvbn0Q"
+    },
+    {
+      "id": "boIYad8806A",
+      "title": "[테마주·작전주] 석 달 만의 여섯 배 급등",
+      "publishedAt": "2026-09-03T10:00:25Z",
+      "duration": "PT29S",
+      "kind": "shorts",
+      "episode": "T032",
+      "url": "https://www.youtube.com/watch?v=boIYad8806A"
+    },
+    {
+      "id": "O44B06FpsB4",
+      "title": "[상한가·하한가] 상한가 다음 날 벌어지는 일",
+      "publishedAt": "2026-09-03T03:00:08Z",
+      "duration": "PT30S",
+      "kind": "shorts",
+      "episode": "T017",
+      "url": "https://www.youtube.com/watch?v=O44B06FpsB4"
+    },
+    {
+      "id": "zinDYmvxpuE",
+      "title": "[물타기] 10만 원짜리 주식이 5만 원이 됐습니다",
+      "publishedAt": "2026-09-02T10:00:12Z",
+      "duration": "PT36S",
+      "kind": "shorts",
+      "episode": "EP003",
+      "url": "https://www.youtube.com/watch?v=zinDYmvxpuE"
+    },
+    {
+      "id": "xCHo2xZJH8A",
+      "title": "[공매도] 게임 회사 주식 하나로 $50K를 $40M으로 만든 직장인",
+      "publishedAt": "2026-08-31T10:00:26Z",
+      "duration": "PT44S",
+      "kind": "shorts",
+      "episode": "EP002",
+      "url": "https://www.youtube.com/watch?v=xCHo2xZJH8A"
+    },
+    {
+      "id": "D5dLvdMV-VM",
+      "title": "[주식] 내 돈이 회사의 몫이 되는 법",
+      "publishedAt": "2026-08-31T10:00:23Z",
+      "duration": "PT26S",
+      "kind": "shorts",
+      "episode": "T001",
+      "url": "https://www.youtube.com/watch?v=D5dLvdMV-VM"
+    },
+    {
+      "id": "UYwbH7f7N3E",
+      "title": "[튤립 버블] 튤립, 인류 최초의 버블",
+      "publishedAt": "2026-08-31T10:00:08Z",
+      "duration": "PT8M25S",
+      "kind": "longform",
+      "episode": "EP004",
+      "url": "https://www.youtube.com/watch?v=UYwbH7f7N3E"
+    }
+  ]
+}
