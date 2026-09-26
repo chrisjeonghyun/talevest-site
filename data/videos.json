@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-26T18:07:03.270731+00:00",
+  "updatedAt": "2026-09-26T19:07:03.356299+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -201,6 +201,15 @@
       "kind": "shorts",
       "episode": "T006",
       "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
+    },
+    {
+      "id": "tS50Z6NRNDQ",
+      "title": "[S&P 500·나스닥] 숫자가 말해주지 않는 분산",
+      "publishedAt": "2026-09-09T10:00:31Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "T005",
+      "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
     },
     {
       "id": "Xk_QPrv6aZY",
