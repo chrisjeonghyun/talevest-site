@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-26T10:07:03.394938+00:00",
+  "updatedAt": "2026-09-26T11:07:05.287086+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "xb4YYpqR168",
+      "title": "[닉 리슨·베어링스] 계좌 88888이 무너뜨린 은행",
+      "publishedAt": "2026-09-26T11:00:07Z",
+      "duration": "PT8M13S",
+      "kind": "longform",
+      "episode": "S3C02",
+      "url": "https://www.youtube.com/watch?v=xb4YYpqR168"
+    },
     {
       "id": "KHfwFqAxtWY",
       "title": "개인 기관 외국인 수급, 순매수 37.1조원의 함정",
