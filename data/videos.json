@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-26T09:07:03.422618+00:00",
+  "updatedAt": "2026-09-26T10:07:03.394938+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "KHfwFqAxtWY",
+      "title": "개인 기관 외국인 수급, 순매수 37.1조원의 함정",
+      "publishedAt": "2026-09-26T10:00:31Z",
+      "duration": "PT34S",
+      "kind": "shorts",
+      "episode": "T021",
+      "url": "https://www.youtube.com/watch?v=KHfwFqAxtWY"
+    },
     {
       "id": "tY6Ojs3W6eA",
       "title": "손절 익절 기준, 90만원에 팔고도 후회하는 이유",
