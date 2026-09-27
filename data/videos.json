@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-27T05:07:03.707883+00:00",
+  "updatedAt": "2026-09-27T06:07:03.622500+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "joxFrUnV37E",
+      "title": "청년미래적금 10월 신청, 15%는 아직 확정 아닙니다",
+      "publishedAt": "2026-09-27T06:00:15Z",
+      "duration": "PT39S",
+      "kind": "shorts",
+      "episode": "CA001",
+      "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
+    },
     {
       "id": "JdH4BBsyx-g",
       "title": "총수익스왑 TRS, 여섯 은행이 위험을 못 본 이유",
