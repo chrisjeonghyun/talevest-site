@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-27T04:07:06.502079+00:00",
+  "updatedAt": "2026-09-27T05:07:03.707883+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "JdH4BBsyx-g",
+      "title": "총수익스왑 TRS, 여섯 은행이 위험을 못 본 이유",
+      "publishedAt": "2026-09-27T05:00:31Z",
+      "duration": "PT14S",
+      "kind": "shorts",
+      "episode": "S3C01-HL02",
+      "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
+    },
     {
       "id": "tn8TwLblYF4",
       "title": "아케고스 사태, 먼저 판 은행이 덜 잃은 이유",
