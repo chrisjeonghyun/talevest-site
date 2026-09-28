@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-28T09:07:03.251290+00:00",
+  "updatedAt": "2026-09-28T10:07:03.350949+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "ygEWzBh6TU8",
+      "title": "카드 리볼빙 수수료, 100만원 중 10만원만 결제하면",
+      "publishedAt": "2026-09-28T10:00:23Z",
+      "duration": "PT37S",
+      "kind": "shorts",
+      "episode": "T095",
+      "url": "https://www.youtube.com/watch?v=ygEWzBh6TU8"
+    },
     {
       "id": "XFOdKN04cVc",
       "title": "베어링스 은행의 인수가격이 1파운드였던 이유",
