@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-28T02:07:03.265093+00:00",
+  "updatedAt": "2026-09-28T03:07:03.239685+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "clFEoYR3jFQ",
+      "title": "베어링스 숨은 계좌, 보고서 밖에서 돈을 요구했다",
+      "publishedAt": "2026-09-28T03:00:14Z",
+      "duration": "PT12S",
+      "kind": "shorts",
+      "episode": "S3C02-HL02",
+      "url": "https://www.youtube.com/watch?v=clFEoYR3jFQ"
+    },
     {
       "id": "vEgLrCkv824",
       "title": "PG사 침해사고 대응, 이용자가 먼저 확인할 것",
