@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-28T05:07:03.356802+00:00",
+  "updatedAt": "2026-09-28T06:07:03.270835+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "XFOdKN04cVc",
+      "title": "베어링스 은행의 인수가격이 1파운드였던 이유",
+      "publishedAt": "2026-09-28T06:00:15Z",
+      "duration": "PT13S",
+      "kind": "shorts",
+      "episode": "S3C02-HL03",
+      "url": "https://www.youtube.com/watch?v=XFOdKN04cVc"
+    },
     {
       "id": "clFEoYR3jFQ",
       "title": "베어링스 숨은 계좌, 보고서 밖에서 돈을 요구했다",
