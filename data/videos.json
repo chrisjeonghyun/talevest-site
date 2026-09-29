@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-28T23:07:03.309554+00:00",
+  "updatedAt": "2026-09-29T00:07:03.327441+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "W53HD5u7j7s",
+      "title": "대출 50만원 갚으면 원금은 얼마나 줄까?",
+      "publishedAt": "2026-09-29T00:00:17Z",
+      "duration": "PT21S",
+      "kind": "shorts",
+      "episode": "S2B011",
+      "url": "https://www.youtube.com/watch?v=W53HD5u7j7s"
+    },
     {
       "id": "ygEWzBh6TU8",
       "title": "카드 리볼빙 수수료, 100만원 중 10만원만 결제하면",
