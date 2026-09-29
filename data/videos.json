@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-29T02:07:03.487521+00:00",
+  "updatedAt": "2026-09-29T03:07:03.502864+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "futFFkENeww",
+      "title": "닉 리슨은 왜 거래와 결제를 함께 맡았을까",
+      "publishedAt": "2026-09-29T03:00:13Z",
+      "duration": "PT13S",
+      "kind": "shorts",
+      "episode": "S3C02-HL01",
+      "url": "https://www.youtube.com/watch?v=futFFkENeww"
+    },
     {
       "id": "W53HD5u7j7s",
       "title": "대출 50만원 갚으면 원금은 얼마나 줄까?",
