@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-29T05:07:03.463377+00:00",
+  "updatedAt": "2026-09-29T06:07:03.544699+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "KS6clHV0FOA",
+      "title": "비상금 300만원이면 몇 달을 버틸까?",
+      "publishedAt": "2026-09-29T06:00:31Z",
+      "duration": "PT21S",
+      "kind": "shorts",
+      "episode": "S2B021",
+      "url": "https://www.youtube.com/watch?v=KS6clHV0FOA"
+    },
     {
       "id": "futFFkENeww",
       "title": "닉 리슨은 왜 거래와 결제를 함께 맡았을까",
