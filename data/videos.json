@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-30T09:07:04.703770+00:00",
+  "updatedAt": "2026-09-30T10:07:04.647433+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "t1rGltnFXgc",
+      "title": "시장가 주문 유동성 위험, 10만원이 9만1,000원이 된 이유",
+      "publishedAt": "2026-09-30T10:00:34Z",
+      "duration": "PT33S",
+      "kind": "shorts",
+      "episode": "T014",
+      "url": "https://www.youtube.com/watch?v=t1rGltnFXgc"
+    },
     {
       "id": "WaYIeWLSfDk",
       "title": "복리와 단리 차이, 100만원을 10년 두면?",
