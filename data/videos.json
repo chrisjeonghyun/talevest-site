@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-30T04:07:04.997662+00:00",
+  "updatedAt": "2026-09-30T05:07:04.840412+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "DhLRLa1CFHE",
+      "title": "레버리지 손실 계산, 원금이 사라지는 조건",
+      "publishedAt": "2026-09-30T05:00:30Z",
+      "duration": "PT39S",
+      "kind": "shorts",
+      "episode": "T069",
+      "url": "https://www.youtube.com/watch?v=DhLRLa1CFHE"
+    },
     {
       "id": "aTLwZg4XvZI",
       "title": "해외송금 수수료 무료, 환율까지 봐야 하는 이유",
