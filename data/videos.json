@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-30T05:07:04.840412+00:00",
+  "updatedAt": "2026-09-30T06:07:04.548234+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "WaYIeWLSfDk",
+      "title": "복리와 단리 차이, 100만원을 10년 두면?",
+      "publishedAt": "2026-09-30T06:00:05Z",
+      "duration": "PT25S",
+      "kind": "shorts",
+      "episode": "S2B001",
+      "url": "https://www.youtube.com/watch?v=WaYIeWLSfDk"
+    },
     {
       "id": "DhLRLa1CFHE",
       "title": "레버리지 손실 계산, 원금이 사라지는 조건",
