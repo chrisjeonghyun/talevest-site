@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-09-30T23:07:04.516508+00:00",
+  "updatedAt": "2026-10-01T00:07:04.458923+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "0JyBhvqC4hE",
+      "title": "채권 쿠폰 5%면 매년 얼마를 받을까?",
+      "publishedAt": "2026-10-01T00:00:03Z",
+      "duration": "PT21S",
+      "kind": "shorts",
+      "episode": "S2B031",
+      "url": "https://www.youtube.com/watch?v=0JyBhvqC4hE"
+    },
     {
       "id": "t1rGltnFXgc",
       "title": "시장가 주문 유동성 위험, 10만원이 9만1,000원이 된 이유",
