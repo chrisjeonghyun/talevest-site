@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-01T09:07:05.100664+00:00",
+  "updatedAt": "2026-10-01T10:07:05.938977+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Cqmzk11kXWg",
+      "title": "천만원 목표, 매달 얼마씩 모아야 할까?",
+      "publishedAt": "2026-10-01T10:00:25Z",
+      "duration": "PT32S",
+      "kind": "shorts",
+      "episode": "S2B004",
+      "url": "https://www.youtube.com/watch?v=Cqmzk11kXWg"
+    },
     {
       "id": "0JyBhvqC4hE",
       "title": "채권 쿠폰 5%면 매년 얼마를 받을까?",
