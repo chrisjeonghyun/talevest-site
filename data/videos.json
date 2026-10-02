@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-02T09:07:04.638114+00:00",
+  "updatedAt": "2026-10-02T10:07:04.870348+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "vhfPDquct88",
+      "title": "가계부는 흑자인데 왜 잔고가 부족할까?",
+      "publishedAt": "2026-10-02T10:00:26Z",
+      "duration": "PT32S",
+      "kind": "shorts",
+      "episode": "S2B023",
+      "url": "https://www.youtube.com/watch?v=vhfPDquct88"
+    },
     {
       "id": "1dcoYvEKBWo",
       "title": "대출 기간을 늘리면 총이자는 얼마나 늘까?",
