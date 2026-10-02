@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-01T23:07:04.946933+00:00",
+  "updatedAt": "2026-10-02T00:07:04.908778+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "1dcoYvEKBWo",
+      "title": "대출 기간을 늘리면 총이자는 얼마나 늘까?",
+      "publishedAt": "2026-10-02T00:00:23Z",
+      "duration": "PT36S",
+      "kind": "shorts",
+      "episode": "S2B014",
+      "url": "https://www.youtube.com/watch?v=1dcoYvEKBWo"
+    },
     {
       "id": "Cqmzk11kXWg",
       "title": "천만원 목표, 매달 얼마씩 모아야 할까?",
