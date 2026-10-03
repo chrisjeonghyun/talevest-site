@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-03T09:07:05.218537+00:00",
+  "updatedAt": "2026-10-03T10:07:05.422574+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "h39Slgsvhn0",
+      "title": "해외주식이 올라도 원화로는 손실일까?",
+      "publishedAt": "2026-10-03T10:00:16Z",
+      "duration": "PT30S",
+      "kind": "shorts",
+      "episode": "S2B049",
+      "url": "https://www.youtube.com/watch?v=h39Slgsvhn0"
+    },
     {
       "id": "yMD_-aKo2VE",
       "title": "금리가 오르면 채권 가격은 왜 내릴까?",
