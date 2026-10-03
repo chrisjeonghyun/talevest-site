@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-02T23:07:05.304206+00:00",
+  "updatedAt": "2026-10-03T00:07:04.808265+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "yMD_-aKo2VE",
+      "title": "금리가 오르면 채권 가격은 왜 내릴까?",
+      "publishedAt": "2026-10-03T00:00:00Z",
+      "duration": "PT33S",
+      "kind": "shorts",
+      "episode": "S2B033",
+      "url": "https://www.youtube.com/watch?v=yMD_-aKo2VE"
+    },
     {
       "id": "vhfPDquct88",
       "title": "가계부는 흑자인데 왜 잔고가 부족할까?",
