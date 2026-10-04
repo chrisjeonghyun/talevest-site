@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-04T05:07:05.184804+00:00",
+  "updatedAt": "2026-10-04T06:07:05.452342+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "a-rVKDrh9cs",
+      "title": "대출 갈아타기 비용, 몇 달이면 회수할까?",
+      "publishedAt": "2026-10-04T06:00:37Z",
+      "duration": "PT33S",
+      "kind": "shorts",
+      "episode": "S2B016",
+      "url": "https://www.youtube.com/watch?v=a-rVKDrh9cs"
+    },
     {
       "id": "qPz0u1jcWrA",
       "title": "물가가 오르면, 그대로인 월급의 구매력은?",
