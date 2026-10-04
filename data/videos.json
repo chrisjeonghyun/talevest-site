@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-04T06:07:05.452342+00:00",
+  "updatedAt": "2026-10-04T07:07:06.092478+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "hTbTeVAQgVw",
+      "title": "빚이 있는데, 투자부터 해도 될까?",
+      "publishedAt": "2026-10-04T06:55:04Z",
+      "duration": "PT11M14S",
+      "kind": "longform",
+      "episode": "DB001",
+      "url": "https://www.youtube.com/watch?v=hTbTeVAQgVw"
+    },
     {
       "id": "a-rVKDrh9cs",
       "title": "대출 갈아타기 비용, 몇 달이면 회수할까?",
