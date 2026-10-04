@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-03T23:07:05.112141+00:00",
+  "updatedAt": "2026-10-04T00:07:06.464641+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "qPz0u1jcWrA",
+      "title": "물가가 오르면, 그대로인 월급의 구매력은?",
+      "publishedAt": "2026-10-04T00:00:04Z",
+      "duration": "PT32S",
+      "kind": "shorts",
+      "episode": "S2B006",
+      "url": "https://www.youtube.com/watch?v=qPz0u1jcWrA"
+    },
     {
       "id": "h39Slgsvhn0",
       "title": "해외주식이 올라도 원화로는 손실일까?",
