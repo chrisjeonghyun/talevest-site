@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-04T09:07:05.282203+00:00",
+  "updatedAt": "2026-10-04T10:07:08.679703+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "QxIZX6-ofDg",
+      "title": "캐시백 10%라도 실제 혜택률이 낮아지는 이유",
+      "publishedAt": "2026-10-04T10:00:15Z",
+      "duration": "PT31S",
+      "kind": "shorts",
+      "episode": "S2B027",
+      "url": "https://www.youtube.com/watch?v=QxIZX6-ofDg"
+    },
     {
       "id": "hTbTeVAQgVw",
       "title": "빚이 있는데, 투자부터 해도 될까?",
