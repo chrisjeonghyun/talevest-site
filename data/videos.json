@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-05T09:07:05.779166+00:00",
+  "updatedAt": "2026-10-05T10:07:07.381106+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "fm_OpSmRNX8",
+      "title": "월복리와 연복리, 같은 연율이어도 잔고가 다를까?",
+      "publishedAt": "2026-10-05T10:00:24Z",
+      "duration": "PT28S",
+      "kind": "shorts",
+      "episode": "S2B002",
+      "url": "https://www.youtube.com/watch?v=fm_OpSmRNX8"
+    },
     {
       "id": "HbRogyYTXFU",
       "title": "보이스피싱 송금 직후, 신고와 지급정지부터",
