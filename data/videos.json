@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-05T05:07:05.545494+00:00",
+  "updatedAt": "2026-10-05T06:07:05.478613+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "HbRogyYTXFU",
+      "title": "보이스피싱 송금 직후, 신고와 지급정지부터",
+      "publishedAt": "2026-10-05T06:00:12Z",
+      "duration": "PT32S",
+      "kind": "shorts",
+      "episode": "S2B060",
+      "url": "https://www.youtube.com/watch?v=HbRogyYTXFU"
+    },
     {
       "id": "PI58NyqL1vs",
       "title": "좋은 신용등급도 채권 가격 손실은 막지 못합니다",
