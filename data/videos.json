@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-06T09:07:05.716018+00:00",
+  "updatedAt": "2026-10-06T10:07:05.842667+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "edAjJD5Lxu8",
+      "title": "채권을 액면보다 싸게 사면 수익은 어디서 날까?",
+      "publishedAt": "2026-10-06T10:00:20Z",
+      "duration": "PT29S",
+      "kind": "shorts",
+      "episode": "S2B032",
+      "url": "https://www.youtube.com/watch?v=edAjJD5Lxu8"
+    },
     {
       "id": "BEs2wdypkPs",
       "title": "연간 지출을 월 예산에 넣으려면?",
