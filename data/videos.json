@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-06T23:07:05.598935+00:00",
+  "updatedAt": "2026-10-07T00:07:05.711631+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Jr-7XlRs5g0",
+      "title": "청년미래적금 2차 신청 전, 이 세 가지부터",
+      "publishedAt": "2026-10-07T00:00:19Z",
+      "duration": "PT51S",
+      "kind": "shorts",
+      "episode": "CA006",
+      "url": "https://www.youtube.com/watch?v=Jr-7XlRs5g0"
+    },
     {
       "id": "edAjJD5Lxu8",
       "title": "채권을 액면보다 싸게 사면 수익은 어디서 날까?",
