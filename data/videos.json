@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-07T10:07:13.691270+00:00",
+  "updatedAt": "2026-10-07T11:07:14.611886+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "ZbHqEJsIycw",
+      "title": "SVB 파산 원인: 안전한 채권과 위험한 시간표",
+      "publishedAt": "2026-10-07T11:00:23Z",
+      "duration": "PT8M44S",
+      "kind": "longform",
+      "episode": "S3C03",
+      "url": "https://www.youtube.com/watch?v=ZbHqEJsIycw"
+    },
     {
       "id": "jm--6lQJBXc",
       "title": "저축을 늦추면 같은 목돈도 얼마나 달라질까?",
