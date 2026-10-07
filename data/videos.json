@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-07T09:07:16.285284+00:00",
+  "updatedAt": "2026-10-07T10:07:13.691270+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "jm--6lQJBXc",
+      "title": "저축을 늦추면 같은 목돈도 얼마나 달라질까?",
+      "publishedAt": "2026-10-07T10:00:19Z",
+      "duration": "PT26S",
+      "kind": "shorts",
+      "episode": "S2B003",
+      "url": "https://www.youtube.com/watch?v=jm--6lQJBXc"
+    },
     {
       "id": "M8UCp0EqvNs",
       "title": "원달러 환율 1400원, 100달러는 얼마일까?",
