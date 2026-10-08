@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-07T23:07:13.461109+00:00",
+  "updatedAt": "2026-10-08T00:07:13.880524+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "NgOtyRGyYGE",
+      "title": "이자를 냈는데 대출 원금은 왜 그대로일까?",
+      "publishedAt": "2026-10-08T00:00:22Z",
+      "duration": "PT26S",
+      "kind": "shorts",
+      "episode": "S2B013",
+      "url": "https://www.youtube.com/watch?v=NgOtyRGyYGE"
+    },
     {
       "id": "ZbHqEJsIycw",
       "title": "SVB 파산 원인: 안전한 채권과 위험한 시간표",
