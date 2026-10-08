@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-08T05:07:15.818121+00:00",
+  "updatedAt": "2026-10-08T06:07:14.555091+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "adkU3g-tcCo",
+      "title": "같은 금리 상승에도 긴 채권이 더 흔들릴까?",
+      "publishedAt": "2026-10-08T06:00:32Z",
+      "duration": "PT29S",
+      "kind": "shorts",
+      "episode": "S2B034",
+      "url": "https://www.youtube.com/watch?v=adkU3g-tcCo"
+    },
     {
       "id": "NgOtyRGyYGE",
       "title": "이자를 냈는데 대출 원금은 왜 그대로일까?",
