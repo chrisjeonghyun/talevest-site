@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-10T09:07:15.614041+00:00",
+  "updatedAt": "2026-10-10T10:07:14.940772+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "OEdecWxIdzA",
+      "title": "고객이 많아도 예금은 한꺼번에 빠질 수 있을까?",
+      "publishedAt": "2026-10-10T10:00:24Z",
+      "duration": "PT51S",
+      "kind": "shorts",
+      "episode": "S3C03-Q03",
+      "url": "https://www.youtube.com/watch?v=OEdecWxIdzA"
+    },
     {
       "id": "xcUqUqyr--U",
       "title": "채권을 팔기 전 손실은 없는 걸까?",
