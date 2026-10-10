@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-10T05:07:15.292735+00:00",
+  "updatedAt": "2026-10-10T06:07:15.319864+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "xcUqUqyr--U",
+      "title": "채권을 팔기 전 손실은 없는 걸까?",
+      "publishedAt": "2026-10-10T06:00:06Z",
+      "duration": "PT49S",
+      "kind": "shorts",
+      "episode": "S3C03-Q02",
+      "url": "https://www.youtube.com/watch?v=xcUqUqyr--U"
+    },
     {
       "id": "kTLnkxkb3Mg",
       "title": "안전한 채권이 있는데 왜 예금을 못 돌려줄까?",
