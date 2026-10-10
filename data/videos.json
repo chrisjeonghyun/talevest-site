@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-09T23:07:14.738835+00:00",
+  "updatedAt": "2026-10-10T00:07:15.218318+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "kTLnkxkb3Mg",
+      "title": "안전한 채권이 있는데 왜 예금을 못 돌려줄까?",
+      "publishedAt": "2026-10-10T00:00:24Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "S3C03-Q01",
+      "url": "https://www.youtube.com/watch?v=kTLnkxkb3Mg"
+    },
     {
       "id": "l2doGKGNZgg",
       "title": "저축률에 보너스도 넣어야 할까?",
