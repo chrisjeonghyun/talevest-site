@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-11T09:07:17.029917+00:00",
+  "updatedAt": "2026-10-11T10:07:16.335447+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "lJycVyOZ3Vs",
+      "title": "같은 수수료, 민수는 왜 더 부담일까?",
+      "publishedAt": "2026-10-11T10:00:31Z",
+      "duration": "PT23S",
+      "kind": "shorts",
+      "episode": "S2B046",
+      "url": "https://www.youtube.com/watch?v=lJycVyOZ3Vs"
+    },
     {
       "id": "81NKGL0n6uM",
       "title": "수수료 내고 갚는 민수, 그래도 남을까?",
