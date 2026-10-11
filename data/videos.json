@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-10T23:07:15.267542+00:00",
+  "updatedAt": "2026-10-11T00:07:16.415987+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -408,15 +408,6 @@
       "kind": "shorts",
       "episode": "T020",
       "url": "https://www.youtube.com/watch?v=tY6Ojs3W6eA"
-    },
-    {
-      "id": "EIInCCwf0FA",
-      "title": "[아케고스] 이틀 만에 사라진 360억 달러",
-      "publishedAt": "2026-09-24T12:30:20Z",
-      "duration": "PT5M57S",
-      "kind": "longform",
-      "episode": "S3C01",
-      "url": "https://www.youtube.com/watch?v=EIInCCwf0FA"
     },
     {
       "id": "iIVNx7s37YM",
