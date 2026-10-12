@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-12T10:07:18.720502+00:00",
+  "updatedAt": "2026-10-12T11:07:18.397311+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "ShqCrWMxDCc",
+      "title": "LTCM, 천재들의 몰락",
+      "publishedAt": "2026-10-12T11:00:21Z",
+      "duration": "PT9M1S",
+      "kind": "longform",
+      "episode": "S3C04",
+      "url": "https://www.youtube.com/watch?v=ShqCrWMxDCc"
+    },
     {
       "id": "ou3w2WfXDJ8",
       "title": "민수의 같은 이자, 왜 다음 수익은 줄까?",
