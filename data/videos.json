@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-12T05:07:18.148207+00:00",
+  "updatedAt": "2026-10-12T06:07:19.581923+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "YtnsC80uWVo",
+      "title": "갚았는데 760만원 남았다, 왜일까요?",
+      "publishedAt": "2026-10-12T06:00:07Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "S2B020",
+      "url": "https://www.youtube.com/watch?v=YtnsC80uWVo"
+    },
     {
       "id": "lsHPFbiMe7o",
       "title": "원천세 신고했는데, 납부도 끝났을까요?",
@@ -383,13 +392,13 @@
       "url": "https://www.youtube.com/watch?v=ZdHOyydfHs4"
     },
     {
-      "id": "joxFrUnV37E",
-      "title": "청년미래적금 10월 신청, 15%는 아직 확정 아닙니다",
-      "publishedAt": "2026-09-27T06:00:15Z",
-      "duration": "PT39S",
+      "id": "JdH4BBsyx-g",
+      "title": "총수익스왑 TRS, 여섯 은행이 위험을 못 본 이유",
+      "publishedAt": "2026-09-27T05:00:31Z",
+      "duration": "PT14S",
       "kind": "shorts",
-      "episode": "CA001",
-      "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
+      "episode": "S3C01-HL02",
+      "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
     },
     {
       "id": "xb4YYpqR168",
