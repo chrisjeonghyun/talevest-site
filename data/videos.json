@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-11T23:07:27.068957+00:00",
+  "updatedAt": "2026-10-12T00:07:17.880619+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "lsHPFbiMe7o",
+      "title": "원천세 신고했는데, 납부도 끝났을까요?",
+      "publishedAt": "2026-10-12T00:00:21Z",
+      "duration": "PT29S",
+      "kind": "shorts",
+      "episode": "CA007",
+      "url": "https://www.youtube.com/watch?v=lsHPFbiMe7o"
+    },
     {
       "id": "lJycVyOZ3Vs",
       "title": "같은 수수료, 민수는 왜 더 부담일까?",
