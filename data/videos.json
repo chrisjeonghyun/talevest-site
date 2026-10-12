@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-12T09:07:19.368581+00:00",
+  "updatedAt": "2026-10-12T10:07:18.720502+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "ou3w2WfXDJ8",
+      "title": "민수의 같은 이자, 왜 다음 수익은 줄까?",
+      "publishedAt": "2026-10-12T10:00:08Z",
+      "duration": "PT23S",
+      "kind": "shorts",
+      "episode": "S2B038",
+      "url": "https://www.youtube.com/watch?v=ou3w2WfXDJ8"
+    },
     {
       "id": "YtnsC80uWVo",
       "title": "갚았는데 760만원 남았다, 왜일까요?",
@@ -633,15 +642,6 @@
       "kind": "shorts",
       "episode": "EP001",
       "url": "https://www.youtube.com/watch?v=vsGVmrSKaKY"
-    },
-    {
-      "id": "wUY7SVvbn0Q",
-      "title": "[서킷브레이커·사이드카] 매도 버튼이 죽었습니다",
-      "publishedAt": "2026-09-03T12:30:34Z",
-      "duration": "PT50S",
-      "kind": "shorts",
-      "episode": "T018",
-      "url": "https://www.youtube.com/watch?v=wUY7SVvbn0Q"
     },
     {
       "id": "boIYad8806A",
