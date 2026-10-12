@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-12T00:07:17.880619+00:00",
+  "updatedAt": "2026-10-12T01:07:21.087603+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -392,13 +392,13 @@
       "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
     },
     {
-      "id": "JdH4BBsyx-g",
-      "title": "총수익스왑 TRS, 여섯 은행이 위험을 못 본 이유",
-      "publishedAt": "2026-09-27T05:00:31Z",
-      "duration": "PT14S",
-      "kind": "shorts",
-      "episode": "S3C01-HL02",
-      "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
+      "id": "xb4YYpqR168",
+      "title": "[닉 리슨·베어링스] 계좌 88888이 무너뜨린 은행",
+      "publishedAt": "2026-09-26T11:00:07Z",
+      "duration": "PT8M13S",
+      "kind": "longform",
+      "episode": "S3C02",
+      "url": "https://www.youtube.com/watch?v=xb4YYpqR168"
     },
     {
       "id": "KHfwFqAxtWY",
@@ -642,15 +642,6 @@
       "kind": "shorts",
       "episode": "T032",
       "url": "https://www.youtube.com/watch?v=boIYad8806A"
-    },
-    {
-      "id": "O44B06FpsB4",
-      "title": "[상한가·하한가] 상한가 다음 날 벌어지는 일",
-      "publishedAt": "2026-09-03T03:00:08Z",
-      "duration": "PT30S",
-      "kind": "shorts",
-      "episode": "T017",
-      "url": "https://www.youtube.com/watch?v=O44B06FpsB4"
     },
     {
       "id": "zinDYmvxpuE",
