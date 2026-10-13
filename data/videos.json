@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-13T10:07:16.956528+00:00",
+  "updatedAt": "2026-10-13T11:07:16.936853+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Z2SEYsjtxAM",
+      "title": "놓치면 돈 나가는 날짜 4개, 10월 16일부터 12월 28일까지 한 번에 정리",
+      "publishedAt": "2026-10-13T11:00:35Z",
+      "duration": "PT9M",
+      "kind": "longform",
+      "episode": "WB001",
+      "url": "https://www.youtube.com/watch?v=Z2SEYsjtxAM"
+    },
     {
       "id": "MhdqR4IJnWU",
       "title": "물가 둔화라는데 민수의 장바구니는 왜 비쌀까?",
@@ -644,13 +653,13 @@
       "url": "https://www.youtube.com/watch?v=Df-GRjTy9ak"
     },
     {
-      "id": "tS50Z6NRNDQ",
-      "title": "[S&P 500·나스닥] 숫자가 말해주지 않는 분산",
-      "publishedAt": "2026-09-09T10:00:31Z",
-      "duration": "PT27S",
+      "id": "7bLb1ssYj9A",
+      "title": "[IPO] 공모가는 약속이 아니다",
+      "publishedAt": "2026-09-10T10:00:24Z",
+      "duration": "PT28S",
       "kind": "shorts",
-      "episode": "T005",
-      "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
+      "episode": "T006",
+      "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
     },
     {
       "id": "Xk_QPrv6aZY",
