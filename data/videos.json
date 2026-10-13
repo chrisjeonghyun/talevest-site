@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-13T05:07:16.779388+00:00",
+  "updatedAt": "2026-10-13T06:07:16.739949+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "rSmr44U_Zzk",
+      "title": "민수가 받은 돈은 98만원, 비용은 얼마일까?",
+      "publishedAt": "2026-10-13T06:00:18Z",
+      "duration": "PT26S",
+      "kind": "shorts",
+      "episode": "S2B019",
+      "url": "https://www.youtube.com/watch?v=rSmr44U_Zzk"
+    },
     {
       "id": "mUv646xZ7vE",
       "title": "민수는 저축부터 했다, 얼마까지 써도 될까?",
@@ -644,13 +653,13 @@
       "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
     },
     {
-      "id": "Xk_QPrv6aZY",
-      "title": "[코스피·코스닥] 코스피와 코스닥의 차이",
-      "publishedAt": "2026-09-08T10:00:04Z",
+      "id": "gd_axkVSKjM",
+      "title": "[주가지수] 같은 지수, 다른 힘",
+      "publishedAt": "2026-09-07T10:00:23Z",
       "duration": "PT27S",
       "kind": "shorts",
-      "episode": "T004",
-      "url": "https://www.youtube.com/watch?v=Xk_QPrv6aZY"
+      "episode": "T003",
+      "url": "https://www.youtube.com/watch?v=gd_axkVSKjM"
     },
     {
       "id": "vsGVmrSKaKY",
