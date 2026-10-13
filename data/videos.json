@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-13T03:07:17.089124+00:00",
+  "updatedAt": "2026-10-13T04:07:22.334606+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -653,15 +653,6 @@
       "url": "https://www.youtube.com/watch?v=Xk_QPrv6aZY"
     },
     {
-      "id": "gd_axkVSKjM",
-      "title": "[주가지수] 같은 지수, 다른 힘",
-      "publishedAt": "2026-09-07T10:00:23Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "T003",
-      "url": "https://www.youtube.com/watch?v=gd_axkVSKjM"
-    },
-    {
       "id": "vsGVmrSKaKY",
       "title": "[코스피200 ETF] 이 상품에 넣은 돈의 4분의 1이 한 회사로 갑니다",
       "publishedAt": "2026-09-04T10:00:10Z",
@@ -671,6 +662,15 @@
       "url": "https://www.youtube.com/watch?v=vsGVmrSKaKY"
     },
     {
+      "id": "wUY7SVvbn0Q",
+      "title": "[서킷브레이커·사이드카] 매도 버튼이 죽었습니다",
+      "publishedAt": "2026-09-03T12:30:34Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "T018",
+      "url": "https://www.youtube.com/watch?v=wUY7SVvbn0Q"
+    },
+    {
       "id": "boIYad8806A",
       "title": "[테마주·작전주] 석 달 만의 여섯 배 급등",
       "publishedAt": "2026-09-03T10:00:25Z",
@@ -678,6 +678,15 @@
       "kind": "shorts",
       "episode": "T032",
       "url": "https://www.youtube.com/watch?v=boIYad8806A"
+    },
+    {
+      "id": "O44B06FpsB4",
+      "title": "[상한가·하한가] 상한가 다음 날 벌어지는 일",
+      "publishedAt": "2026-09-03T03:00:08Z",
+      "duration": "PT30S",
+      "kind": "shorts",
+      "episode": "T017",
+      "url": "https://www.youtube.com/watch?v=O44B06FpsB4"
     },
     {
       "id": "zinDYmvxpuE",
