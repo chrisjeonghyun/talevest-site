@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-12T23:07:17.058064+00:00",
+  "updatedAt": "2026-10-13T00:07:17.865461+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "mUv646xZ7vE",
+      "title": "민수는 저축부터 했다, 얼마까지 써도 될까?",
+      "publishedAt": "2026-10-13T00:00:21Z",
+      "duration": "PT17S",
+      "kind": "shorts",
+      "episode": "S2B025",
+      "url": "https://www.youtube.com/watch?v=mUv646xZ7vE"
+    },
     {
       "id": "ShqCrWMxDCc",
       "title": "LTCM, 천재들의 몰락",
@@ -417,6 +426,15 @@
       "kind": "shorts",
       "episode": "S3C01-HL02",
       "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
+    },
+    {
+      "id": "tn8TwLblYF4",
+      "title": "아케고스 사태, 먼저 판 은행이 덜 잃은 이유",
+      "publishedAt": "2026-09-27T00:00:12Z",
+      "duration": "PT14S",
+      "kind": "shorts",
+      "episode": "S3C01-HL01",
+      "url": "https://www.youtube.com/watch?v=tn8TwLblYF4"
     },
     {
       "id": "xb4YYpqR168",
