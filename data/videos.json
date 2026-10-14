@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-14T09:07:22.046570+00:00",
+  "updatedAt": "2026-10-14T10:07:22.376463+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "qeEB954C1lQ",
+      "title": "내년 100만원, 민수는 지금 얼마로 볼까?",
+      "publishedAt": "2026-10-14T10:00:09Z",
+      "duration": "PT26S",
+      "kind": "shorts",
+      "episode": "S2B005",
+      "url": "https://www.youtube.com/watch?v=qeEB954C1lQ"
+    },
     {
       "id": "yiXnB6km38c",
       "title": "월급 오른 민수, 정말 5% 더 살 수 있을까?",
@@ -453,6 +462,15 @@
       "kind": "shorts",
       "episode": "S3C01-HL03",
       "url": "https://www.youtube.com/watch?v=ZdHOyydfHs4"
+    },
+    {
+      "id": "joxFrUnV37E",
+      "title": "청년미래적금 10월 신청, 15%는 아직 확정 아닙니다",
+      "publishedAt": "2026-09-27T06:00:15Z",
+      "duration": "PT39S",
+      "kind": "shorts",
+      "episode": "CA001",
+      "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
     },
     {
       "id": "JdH4BBsyx-g",
