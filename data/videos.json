@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-14T05:07:17.263484+00:00",
+  "updatedAt": "2026-10-14T06:07:19.224642+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "yiXnB6km38c",
+      "title": "월급 오른 민수, 정말 5% 더 살 수 있을까?",
+      "publishedAt": "2026-10-14T06:00:02Z",
+      "duration": "PT28S",
+      "kind": "shorts",
+      "episode": "S2B009",
+      "url": "https://www.youtube.com/watch?v=yiXnB6km38c"
+    },
     {
       "id": "U67ySiLXgpo",
       "title": "민수의 1만 원 점심, 10년 뒤엔 얼마일까?",
@@ -660,6 +669,15 @@
       "kind": "shorts",
       "episode": "T007",
       "url": "https://www.youtube.com/watch?v=Df-GRjTy9ak"
+    },
+    {
+      "id": "7bLb1ssYj9A",
+      "title": "[IPO] 공모가는 약속이 아니다",
+      "publishedAt": "2026-09-10T10:00:24Z",
+      "duration": "PT28S",
+      "kind": "shorts",
+      "episode": "T006",
+      "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
     },
     {
       "id": "tS50Z6NRNDQ",
