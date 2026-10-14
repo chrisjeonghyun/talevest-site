@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-13T23:08:24.985171+00:00",
+  "updatedAt": "2026-10-14T00:07:20.522545+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "U67ySiLXgpo",
+      "title": "민수의 1만 원 점심, 10년 뒤엔 얼마일까?",
+      "publishedAt": "2026-10-14T00:00:05Z",
+      "duration": "PT25S",
+      "kind": "shorts",
+      "episode": "S2B008",
+      "url": "https://www.youtube.com/watch?v=U67ySiLXgpo"
+    },
     {
       "id": "Z2SEYsjtxAM",
       "title": "놓치면 돈 나가는 날짜 4개, 10월 16일부터 12월 28일까지 한 번에 정리",
@@ -653,13 +662,13 @@
       "url": "https://www.youtube.com/watch?v=Df-GRjTy9ak"
     },
     {
-      "id": "7bLb1ssYj9A",
-      "title": "[IPO] 공모가는 약속이 아니다",
-      "publishedAt": "2026-09-10T10:00:24Z",
-      "duration": "PT28S",
+      "id": "tS50Z6NRNDQ",
+      "title": "[S&P 500·나스닥] 숫자가 말해주지 않는 분산",
+      "publishedAt": "2026-09-09T10:00:31Z",
+      "duration": "PT27S",
       "kind": "shorts",
-      "episode": "T006",
-      "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
+      "episode": "T005",
+      "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
     },
     {
       "id": "Xk_QPrv6aZY",
