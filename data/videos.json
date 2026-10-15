@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-14T23:07:18.083741+00:00",
+  "updatedAt": "2026-10-15T00:07:17.836358+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "IvZiOhiwOSQ",
+      "title": "가격 그대로인 과자, 민수는 왜 손해일까?",
+      "publishedAt": "2026-10-15T00:00:32Z",
+      "duration": "PT25S",
+      "kind": "shorts",
+      "episode": "S2B010",
+      "url": "https://www.youtube.com/watch?v=IvZiOhiwOSQ"
+    },
     {
       "id": "yKAXPQ6pw5w",
       "title": "리먼, 구제 없이 무너졌다",
