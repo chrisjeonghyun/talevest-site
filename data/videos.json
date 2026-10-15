@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-15T09:07:18.249633+00:00",
+  "updatedAt": "2026-10-15T10:07:18.683402+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "0cVMSswWg3w",
+      "title": "월급이 통장에 머문 시간",
+      "publishedAt": "2026-10-15T10:00:02Z",
+      "duration": "PT17S",
+      "kind": "shorts",
+      "episode": "TD001",
+      "url": "https://www.youtube.com/watch?v=0cVMSswWg3w"
+    },
     {
       "id": "TzLgWVeQwSQ",
       "title": "금리가 올랐는데 민수의 이자는 왜 같을까?",
@@ -417,6 +426,15 @@
       "kind": "shorts",
       "episode": "S2B047",
       "url": "https://www.youtube.com/watch?v=aTLwZg4XvZI"
+    },
+    {
+      "id": "9dAh0hTiOXM",
+      "title": "종부세 합산배제, 9월 30일까지 확인할 것",
+      "publishedAt": "2026-09-30T00:00:11Z",
+      "duration": "PT40S",
+      "kind": "shorts",
+      "episode": "CA005",
+      "url": "https://www.youtube.com/watch?v=9dAh0hTiOXM"
     },
     {
       "id": "KS6clHV0FOA",
