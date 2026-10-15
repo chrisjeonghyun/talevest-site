@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-15T10:07:18.683402+00:00",
+  "updatedAt": "2026-10-15T11:07:18.647722+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "PUW0SqE_1w8",
+      "title": "플래시크래시, 거래가 폭주한 날",
+      "publishedAt": "2026-10-15T11:00:20Z",
+      "duration": "PT9M7S",
+      "kind": "longform",
+      "episode": "S3C05",
+      "url": "https://www.youtube.com/watch?v=PUW0SqE_1w8"
+    },
     {
       "id": "0cVMSswWg3w",
       "title": "월급이 통장에 머문 시간",
