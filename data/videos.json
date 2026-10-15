@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-15T05:07:18.468554+00:00",
+  "updatedAt": "2026-10-15T06:07:18.582367+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "TzLgWVeQwSQ",
+      "title": "금리가 올랐는데 민수의 이자는 왜 같을까?",
+      "publishedAt": "2026-10-15T06:00:38Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "S2B017",
+      "url": "https://www.youtube.com/watch?v=TzLgWVeQwSQ"
+    },
     {
       "id": "IvZiOhiwOSQ",
       "title": "가격 그대로인 과자, 민수는 왜 손해일까?",
