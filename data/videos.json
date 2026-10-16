@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-16T07:07:22.721019+00:00",
+  "updatedAt": "2026-10-16T08:07:20.141820+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "JWrVo7qWYGg",
+      "title": "주식 왜 떨어지나, 코스피 7.57% 급락과 미국 반등",
+      "publishedAt": "2026-10-16T07:30:40Z",
+      "duration": "PT19S",
+      "kind": "shorts",
+      "episode": "BR-MARKET-DROP-20261016",
+      "url": "https://www.youtube.com/watch?v=JWrVo7qWYGg"
+    },
     {
       "id": "u1hyEPKjA2Y",
       "title": "민수의 카드 혜택, 연회비 본전은 언제일까?",
