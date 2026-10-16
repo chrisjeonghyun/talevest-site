@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-15T23:07:19.764702+00:00",
+  "updatedAt": "2026-10-16T00:07:19.250252+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Hsa7dWjIjII",
+      "title": "민수의 대출 납입액, 왜 갑자기 뛸까?",
+      "publishedAt": "2026-10-16T00:00:33Z",
+      "duration": "PT26S",
+      "kind": "shorts",
+      "episode": "S2B018",
+      "url": "https://www.youtube.com/watch?v=Hsa7dWjIjII"
+    },
     {
       "id": "PUW0SqE_1w8",
       "title": "플래시크래시, 거래가 폭주한 날",
