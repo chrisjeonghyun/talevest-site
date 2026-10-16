@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-16T11:07:22.207017+00:00",
+  "updatedAt": "2026-10-16T12:07:26.229738+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -293,15 +293,6 @@
       "url": "https://www.youtube.com/watch?v=M8UCp0EqvNs"
     },
     {
-      "id": "Jr-7XlRs5g0",
-      "title": "청년미래적금 2차 신청 전, 이 세 가지부터",
-      "publishedAt": "2026-10-07T00:00:19Z",
-      "duration": "PT51S",
-      "kind": "shorts",
-      "episode": "CA006",
-      "url": "https://www.youtube.com/watch?v=Jr-7XlRs5g0"
-    },
-    {
       "id": "edAjJD5Lxu8",
       "title": "채권을 액면보다 싸게 사면 수익은 어디서 날까?",
       "publishedAt": "2026-10-06T10:00:20Z",
@@ -363,6 +354,15 @@
       "kind": "shorts",
       "episode": "S2B027",
       "url": "https://www.youtube.com/watch?v=QxIZX6-ofDg"
+    },
+    {
+      "id": "hTbTeVAQgVw",
+      "title": "[찬반토론] 빚이 있는데, 투자부터 해도 될까?",
+      "publishedAt": "2026-10-04T06:55:04Z",
+      "duration": "PT11M14S",
+      "kind": "longform",
+      "episode": "DB001",
+      "url": "https://www.youtube.com/watch?v=hTbTeVAQgVw"
     },
     {
       "id": "a-rVKDrh9cs",
