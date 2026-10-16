@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-16T09:07:19.484349+00:00",
+  "updatedAt": "2026-10-16T10:07:24.898583+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "gvCw3P3rEFs",
+      "title": "할인받은 민수, 왜 돈을 더 썼을까?",
+      "publishedAt": "2026-10-16T10:00:18Z",
+      "duration": "PT24S",
+      "kind": "shorts",
+      "episode": "S2B028",
+      "url": "https://www.youtube.com/watch?v=gvCw3P3rEFs"
+    },
     {
       "id": "JWrVo7qWYGg",
       "title": "주식 왜 떨어지나, 코스피 7.57% 급락과 미국 반등",
