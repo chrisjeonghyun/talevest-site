@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-16T05:07:20.022163+00:00",
+  "updatedAt": "2026-10-16T06:07:20.247935+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "u1hyEPKjA2Y",
+      "title": "민수의 카드 혜택, 연회비 본전은 언제일까?",
+      "publishedAt": "2026-10-16T06:00:00Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "S2B026",
+      "url": "https://www.youtube.com/watch?v=u1hyEPKjA2Y"
+    },
     {
       "id": "KlXqQihhs_s",
       "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
