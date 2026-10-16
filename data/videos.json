@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-16T03:07:33.993758+00:00",
+  "updatedAt": "2026-10-16T04:07:21.525414+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "KlXqQihhs_s",
+      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
+      "publishedAt": "2026-10-16T04:00:27Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "BR-TSMC-20261016",
+      "url": "https://www.youtube.com/watch?v=KlXqQihhs_s"
+    },
     {
       "id": "Hsa7dWjIjII",
       "title": "민수의 대출 납입액, 왜 갑자기 뛸까?",
@@ -327,15 +336,6 @@
       "kind": "shorts",
       "episode": "S2B027",
       "url": "https://www.youtube.com/watch?v=QxIZX6-ofDg"
-    },
-    {
-      "id": "hTbTeVAQgVw",
-      "title": "[찬반토론] 빚이 있는데, 투자부터 해도 될까?",
-      "publishedAt": "2026-10-04T06:55:04Z",
-      "duration": "PT11M14S",
-      "kind": "longform",
-      "episode": "DB001",
-      "url": "https://www.youtube.com/watch?v=hTbTeVAQgVw"
     },
     {
       "id": "a-rVKDrh9cs",
