@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-17T00:07:31.934183+00:00",
+  "updatedAt": "2026-10-17T01:07:33.858281+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "id": "yKAXPQ6pw5w",
-      "title": "리먼, 구제 없이 무너졌다",
+      "title": "리먼 브라더스 파산 원인: 자산이 있어도 현금이 막힌 이유 | 내 돈 계산",
       "publishedAt": "2026-10-14T11:00:36Z",
       "duration": "PT14M52S",
       "kind": "longform",
@@ -132,7 +132,7 @@
     },
     {
       "id": "Z2SEYsjtxAM",
-      "title": "놓치면 돈 나가는 날짜 4개, 10월 16일부터 12월 28일까지 한 번에 정리",
+      "title": "청년미래적금, 부가세, 기준금리 일정 | 2026년 10월 내 돈 계산",
       "publishedAt": "2026-10-13T11:00:35Z",
       "duration": "PT9M",
       "kind": "longform",
@@ -168,7 +168,7 @@
     },
     {
       "id": "ShqCrWMxDCc",
-      "title": "LTCM, 천재들의 몰락",
+      "title": "LTCM 위기, 왜 월가가 구제에 나섰나? | 레버리지와 유동성",
       "publishedAt": "2026-10-12T11:00:21Z",
       "duration": "PT9M1S",
       "kind": "longform",
@@ -276,7 +276,7 @@
     },
     {
       "id": "ZbHqEJsIycw",
-      "title": "400억 달러가 하루에 빠졌다, SVB는 왜 막지 못했나",
+      "title": "SVB 뱅크런 원인 | 하루 400억 달러, 실리콘밸리은행은 왜 못 막았나",
       "publishedAt": "2026-10-07T11:00:23Z",
       "duration": "PT8M44S",
       "kind": "longform",
