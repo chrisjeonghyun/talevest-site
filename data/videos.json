@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-17T09:07:28.064476+00:00",
+  "updatedAt": "2026-10-17T10:07:31.196697+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Hkc532jKfIw",
+      "title": "회수율 40%, 민수는 얼마를 잃을까?",
+      "publishedAt": "2026-10-17T10:00:04Z",
+      "duration": "PT19S",
+      "kind": "shorts",
+      "episode": "S2B037",
+      "url": "https://www.youtube.com/watch?v=Hkc532jKfIw"
+    },
     {
       "id": "p2xKx_By-h8",
       "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
