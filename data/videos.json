@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-17T11:07:31.289421+00:00",
+  "updatedAt": "2026-10-17T12:07:30.090223+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "qHqS3ZQQoh0",
+      "title": "테슬라와 SpaceX 합병설, 내 주식은 몇 주가 될까?",
+      "publishedAt": "2026-10-17T12:00:27Z",
+      "duration": "PT1M43S",
+      "kind": "shorts",
+      "episode": "BR-TSLA-SPACEX-20261017",
+      "url": "https://www.youtube.com/watch?v=qHqS3ZQQoh0"
+    },
     {
       "id": "Hkc532jKfIw",
       "title": "회수율 40%, 민수는 얼마를 잃을까?",
