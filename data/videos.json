@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-16T23:07:29.975592+00:00",
+  "updatedAt": "2026-10-17T00:07:31.934183+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "S82iDQb7U9E",
+      "title": "민수의 무이자 할부, 다음 달엔 얼마일까?",
+      "publishedAt": "2026-10-17T00:00:22Z",
+      "duration": "PT20S",
+      "kind": "shorts",
+      "episode": "S2B029",
+      "url": "https://www.youtube.com/watch?v=S82iDQb7U9E"
+    },
     {
       "id": "gvCw3P3rEFs",
       "title": "할인받은 민수, 왜 돈을 더 썼을까?",
