@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-17T07:07:30.849365+00:00",
+  "updatedAt": "2026-10-17T08:07:32.206797+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "p2xKx_By-h8",
+      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
+      "publishedAt": "2026-10-17T07:30:34Z",
+      "duration": "PT1M41S",
+      "kind": "shorts",
+      "episode": "SC-TSMC-DEPTH-20261016",
+      "url": "https://www.youtube.com/watch?v=p2xKx_By-h8"
+    },
     {
       "id": "6uXY0hPe9us",
       "title": "민수 앞의 높은 이자, 공짜일까?",
