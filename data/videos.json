@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-18T09:07:28.548672+00:00",
+  "updatedAt": "2026-10-18T10:07:30.113852+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "SpByoYgMMEM",
+      "title": "0.1%p 더 준다길래",
+      "publishedAt": "2026-10-18T10:00:37Z",
+      "duration": "PT19S",
+      "kind": "shorts",
+      "episode": "TD002",
+      "url": "https://www.youtube.com/watch?v=SpByoYgMMEM"
+    },
     {
       "id": "dPbyVPPViRU",
       "title": "원금은 돌아왔는데, 민수의 이자는 왜 끝날까?",
