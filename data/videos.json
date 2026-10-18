@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-18T04:07:56.979184+00:00",
+  "updatedAt": "2026-10-18T05:07:28.384474+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -696,15 +696,6 @@
       "kind": "shorts",
       "episode": "T041",
       "url": "https://www.youtube.com/watch?v=iIVNx7s37YM"
-    },
-    {
-      "id": "gIOT8tSWBto",
-      "title": "연준 0.25%p 인상, 내 대출·예금·환율은 언제 확인하나",
-      "publishedAt": "2026-09-24T00:00:11Z",
-      "duration": "PT48S",
-      "kind": "shorts",
-      "episode": "CA003",
-      "url": "https://www.youtube.com/watch?v=gIOT8tSWBto"
     },
     {
       "id": "q3RvoyWDKjw",
