@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-17T23:07:29.980410+00:00",
+  "updatedAt": "2026-10-18T00:07:29.800660+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "wuvFa_oG_5g",
+      "title": "같은 부가세인데, 내 마감은 왜 다를까?",
+      "publishedAt": "2026-10-18T00:00:36Z",
+      "duration": "PT20S",
+      "kind": "shorts",
+      "episode": "CA008",
+      "url": "https://www.youtube.com/watch?v=wuvFa_oG_5g"
+    },
     {
       "id": "qHqS3ZQQoh0",
       "title": "테슬라와 SpaceX 합병설, 내 주식은 몇 주가 될까?",
