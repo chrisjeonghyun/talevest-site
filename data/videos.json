@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-18T05:07:28.384474+00:00",
+  "updatedAt": "2026-10-18T06:07:28.419088+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "dPbyVPPViRU",
+      "title": "원금은 돌아왔는데, 민수의 이자는 왜 끝날까?",
+      "publishedAt": "2026-10-18T06:00:35Z",
+      "duration": "PT22S",
+      "kind": "shorts",
+      "episode": "S2B039",
+      "url": "https://www.youtube.com/watch?v=dPbyVPPViRU"
+    },
     {
       "id": "wuvFa_oG_5g",
       "title": "같은 부가세인데, 내 마감은 왜 다를까?",
