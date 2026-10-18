@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-18T10:07:30.113852+00:00",
+  "updatedAt": "2026-10-18T11:07:30.159656+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "z5ADzm26dg0",
+      "title": "국민연금 리밸런싱 유예, 정말 고점에 물렸나? 125조 감소의 진짜 쟁점",
+      "publishedAt": "2026-10-18T11:00:25Z",
+      "duration": "PT12M10S",
+      "kind": "longform",
+      "episode": "LF-NPS-REBALANCING-20261016",
+      "url": "https://www.youtube.com/watch?v=z5ADzm26dg0"
+    },
     {
       "id": "SpByoYgMMEM",
       "title": "0.1%p 더 준다길래",
