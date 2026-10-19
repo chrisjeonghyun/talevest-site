@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-19T02:07:28.895202+00:00",
+  "updatedAt": "2026-10-19T03:07:29.145159+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "CRdgiT8QUIQ",
+      "title": "추가로 안 샀는데 왜 위험은 커질까?",
+      "publishedAt": "2026-10-19T03:00:20Z",
+      "duration": "PT18S",
+      "kind": "shorts",
+      "episode": "LF-NPS-REBALANCING-20261016-HL01",
+      "url": "https://www.youtube.com/watch?v=CRdgiT8QUIQ"
+    },
     {
       "id": "NrhBwUk3cpA",
       "title": "주가는 올랐는데, 원화로는 왜 줄었을까?",
