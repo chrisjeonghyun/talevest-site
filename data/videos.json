@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-19T09:07:32.393581+00:00",
+  "updatedAt": "2026-10-19T10:07:33.279756+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "3KI-ONWFTT8",
+      "title": "베어링스, 이익 보고 뒤 손실은 누가 확인했나?",
+      "publishedAt": "2026-10-19T10:00:06Z",
+      "duration": "PT1M12S",
+      "kind": "shorts",
+      "episode": "REAL-BARINGS",
+      "url": "https://www.youtube.com/watch?v=3KI-ONWFTT8"
+    },
     {
       "id": "pYQ7UqmsgWc",
       "title": "두 번 환전하면, 정말 더 쌀까?",
