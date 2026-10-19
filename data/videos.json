@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-18T23:07:30.733730+00:00",
+  "updatedAt": "2026-10-19T00:07:31.547310+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "NrhBwUk3cpA",
+      "title": "주가는 올랐는데, 원화로는 왜 줄었을까?",
+      "publishedAt": "2026-10-19T00:00:29Z",
+      "duration": "PT1M24S",
+      "kind": "shorts",
+      "episode": "CA009",
+      "url": "https://www.youtube.com/watch?v=NrhBwUk3cpA"
+    },
     {
       "id": "z5ADzm26dg0",
       "title": "국민연금 리밸런싱 유예, 정말 고점에 물렸나? 125조 감소의 진짜 쟁점",
