@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-19T10:07:33.279756+00:00",
+  "updatedAt": "2026-10-19T11:07:32.741424+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "oDNcRJWa1Ps",
+      "title": "실적 발표 주간, 내 돈은 어디에 겹쳐 있을까? | 주간 내 돈 브리핑 2",
+      "publishedAt": "2026-10-19T11:00:00Z",
+      "duration": "PT12M",
+      "kind": "longform",
+      "episode": "WB002",
+      "url": "https://www.youtube.com/watch?v=oDNcRJWa1Ps"
+    },
     {
       "id": "3KI-ONWFTT8",
       "title": "베어링스, 이익 보고 뒤 손실은 누가 확인했나?",
