@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-19T05:07:29.086903+00:00",
+  "updatedAt": "2026-10-19T06:07:29.203071+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "pYQ7UqmsgWc",
+      "title": "두 번 환전하면, 정말 더 쌀까?",
+      "publishedAt": "2026-10-19T06:00:25Z",
+      "duration": "PT1M23S",
+      "kind": "shorts",
+      "episode": "S2B044",
+      "url": "https://www.youtube.com/watch?v=pYQ7UqmsgWc"
+    },
     {
       "id": "CRdgiT8QUIQ",
       "title": "추가로 안 샀는데 왜 위험은 커질까?",
