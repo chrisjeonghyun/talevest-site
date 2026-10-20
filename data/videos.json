@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-20T10:11:16.591365+00:00",
+  "updatedAt": "2026-10-20T11:11:56.956908+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "WJC4JVynXz8",
+      "title": "주가 하락, 물가와 AI 투자 부담을 내 계좌로 읽기",
+      "publishedAt": "2026-10-20T11:00:36Z",
+      "duration": "PT10M49S",
+      "kind": "longform",
+      "episode": "LF-MARKET-EXPLAIN",
+      "url": "https://www.youtube.com/watch?v=WJC4JVynXz8"
+    },
     {
       "id": "ixVMESXg-wk",
       "title": "리먼, 자산이 있어도 왜 현금이 막혔나?",
