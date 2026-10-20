@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-19T23:07:31.489078+00:00",
+  "updatedAt": "2026-10-20T00:07:29.929764+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "PO_RBcrcHf4",
+      "title": "부가세 납부 연장, 신고도 늦춰도 될까?",
+      "publishedAt": "2026-10-20T00:00:17Z",
+      "duration": "PT1M21S",
+      "kind": "shorts",
+      "episode": "CA010",
+      "url": "https://www.youtube.com/watch?v=PO_RBcrcHf4"
+    },
     {
       "id": "oDNcRJWa1Ps",
       "title": "실적 발표 주간, 내 돈은 어디에 겹쳐 있을까? | 주간 내 돈 브리핑 2",
