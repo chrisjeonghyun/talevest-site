@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-20T09:11:00.851905+00:00",
+  "updatedAt": "2026-10-20T10:11:16.591365+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "ixVMESXg-wk",
+      "title": "리먼, 자산이 있어도 왜 현금이 막혔나?",
+      "publishedAt": "2026-10-20T10:00:35Z",
+      "duration": "PT1M19S",
+      "kind": "shorts",
+      "episode": "REAL-LEHMAN",
+      "url": "https://www.youtube.com/watch?v=ixVMESXg-wk"
+    },
     {
       "id": "x23_1X0jk2k",
       "title": "넷플릭스 실적, 내 ETF에는 얼마가 움직일까?",
