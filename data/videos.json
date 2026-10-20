@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-20T12:11:47.562147+00:00",
+  "updatedAt": "2026-10-20T13:11:39.669301+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -354,15 +354,6 @@
       "kind": "shorts",
       "episode": "S2B038",
       "url": "https://www.youtube.com/watch?v=ou3w2WfXDJ8"
-    },
-    {
-      "id": "YtnsC80uWVo",
-      "title": "갚았는데 760만원 남았다, 왜일까요?",
-      "publishedAt": "2026-10-12T06:00:07Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "S2B020",
-      "url": "https://www.youtube.com/watch?v=YtnsC80uWVo"
     },
     {
       "id": "lsHPFbiMe7o",
@@ -804,6 +795,15 @@
       "kind": "shorts",
       "episode": "T041",
       "url": "https://www.youtube.com/watch?v=iIVNx7s37YM"
+    },
+    {
+      "id": "gIOT8tSWBto",
+      "title": "연준 0.25%p 인상, 내 대출·예금·환율은 언제 확인하나",
+      "publishedAt": "2026-09-24T00:00:11Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "CA003",
+      "url": "https://www.youtube.com/watch?v=gIOT8tSWBto"
     },
     {
       "id": "q3RvoyWDKjw",
