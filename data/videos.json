@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-20T05:10:59.253163+00:00",
+  "updatedAt": "2026-10-20T06:11:02.937292+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "j2_vqo6AY08",
+      "title": "달러 학비, 나눠 환전하면 항상 덜 들까?",
+      "publishedAt": "2026-10-20T06:00:12Z",
+      "duration": "PT1M24S",
+      "kind": "shorts",
+      "episode": "S2B050",
+      "url": "https://www.youtube.com/watch?v=j2_vqo6AY08"
+    },
     {
       "id": "PO_RBcrcHf4",
       "title": "부가세 납부 연장, 신고도 늦춰도 될까?",
