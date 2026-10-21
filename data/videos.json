@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-21T02:10:43.702038+00:00",
+  "updatedAt": "2026-10-21T03:10:48.376110+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "eEaopVFy6O0",
+      "title": "테슬라 48만 대 인도, 이익도 늘었다는 뜻일까?",
+      "publishedAt": "2026-10-21T03:00:13Z",
+      "duration": "PT1M10S",
+      "kind": "shorts",
+      "episode": "SC-TSLA-PREVIEW-20261018",
+      "url": "https://www.youtube.com/watch?v=eEaopVFy6O0"
+    },
     {
       "id": "qZYuLPX7gJs",
       "title": "반도체 ETF vs 전력설비 ETF, 같은 돈 다른 이름?",
