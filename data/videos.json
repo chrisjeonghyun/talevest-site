@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-21T05:10:48.344634+00:00",
+  "updatedAt": "2026-10-21T06:10:48.483915+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Pe_VuUxScbg",
+      "title": "엔론의 이익과 현금은 왜 달랐을까?",
+      "publishedAt": "2026-10-21T06:00:09Z",
+      "duration": "PT1M22S",
+      "kind": "shorts",
+      "episode": "REAL-ENRON",
+      "url": "https://www.youtube.com/watch?v=Pe_VuUxScbg"
+    },
     {
       "id": "eEaopVFy6O0",
       "title": "테슬라 48만 대 인도, 이익도 늘었다는 뜻일까?",
