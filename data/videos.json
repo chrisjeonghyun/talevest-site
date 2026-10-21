@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-21T10:07:11.170900+00:00",
+  "updatedAt": "2026-10-21T11:07:11.045523+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "BABZtbbhQ7Q",
+      "title": "반도체와 전력 ETF, 두 개를 샀는데 위험은 나뉘었을까?",
+      "publishedAt": "2026-10-21T11:00:15Z",
+      "duration": "PT7M47S",
+      "kind": "longform",
+      "episode": "LF-AI-POWER-STRUCTURE",
+      "url": "https://www.youtube.com/watch?v=BABZtbbhQ7Q"
+    },
     {
       "id": "y41jzvu-W-4",
       "title": "100달러 보낸 민수, 왜 95달러만 왔을까?",
