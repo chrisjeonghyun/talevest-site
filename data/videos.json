@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-22T05:07:11.321202+00:00",
+  "updatedAt": "2026-10-22T06:07:10.995780+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "s6Cit5y6PFA",
+      "title": "LTCM의 계산은 어디서 어긋났나?",
+      "publishedAt": "2026-10-22T06:00:27Z",
+      "duration": "PT1M18S",
+      "kind": "shorts",
+      "episode": "REAL-LTCM",
+      "url": "https://www.youtube.com/watch?v=s6Cit5y6PFA"
+    },
     {
       "id": "jO7avWSJZm4",
       "title": "연금저축과 IRP, 한도가 같을까?",
