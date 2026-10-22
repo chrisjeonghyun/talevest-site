@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-22T10:07:11.221674+00:00",
+  "updatedAt": "2026-10-22T11:07:10.975144+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "8NZgHCfzuQA",
+      "title": "테라 루나 사태, 1달러 약속은 왜 무너졌나 | 교환 규칙과 현금 상환권",
+      "publishedAt": "2026-10-22T11:00:06Z",
+      "duration": "PT9M7S",
+      "kind": "longform",
+      "episode": "S3C08",
+      "url": "https://www.youtube.com/watch?v=8NZgHCfzuQA"
+    },
     {
       "id": "g9TGg65q2iQ",
       "title": "1년 뒤 100만 원은 오늘 얼마일까? | 현재가치 계산",
