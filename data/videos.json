@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-22T06:07:10.995780+00:00",
+  "updatedAt": "2026-10-22T07:07:10.986292+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -1065,6 +1065,15 @@
       "kind": "shorts",
       "episode": "T032",
       "url": "https://www.youtube.com/watch?v=boIYad8806A"
+    },
+    {
+      "id": "O44B06FpsB4",
+      "title": "[상한가·하한가] 상한가 다음 날 벌어지는 일",
+      "publishedAt": "2026-09-03T03:00:08Z",
+      "duration": "PT30S",
+      "kind": "shorts",
+      "episode": "T017",
+      "url": "https://www.youtube.com/watch?v=O44B06FpsB4"
     },
     {
       "id": "zinDYmvxpuE",
