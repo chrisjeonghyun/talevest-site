@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-23T09:07:11.944091+00:00",
+  "updatedAt": "2026-10-23T10:07:11.784517+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "j6KhFxX-2NI",
+      "title": "환율이 같아도 민수는 왜 돈을 잃을까?",
+      "publishedAt": "2026-10-23T10:00:04Z",
+      "duration": "PT46S",
+      "kind": "shorts",
+      "episode": "S2B045",
+      "url": "https://www.youtube.com/watch?v=j6KhFxX-2NI"
+    },
     {
       "id": "uz334xd0l4M",
       "title": "SVB에서는 왜 예금이 한꺼번에 빠졌나?",
