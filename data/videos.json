@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-23T08:07:12.020590+00:00",
+  "updatedAt": "2026-10-23T09:07:11.944091+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -381,15 +381,6 @@
       "kind": "longform",
       "episode": "S3C06",
       "url": "https://www.youtube.com/watch?v=yKAXPQ6pw5w"
-    },
-    {
-      "id": "qeEB954C1lQ",
-      "title": "내년 100만원, 민수는 지금 얼마로 볼까?",
-      "publishedAt": "2026-10-14T10:00:09Z",
-      "duration": "PT26S",
-      "kind": "shorts",
-      "episode": "S2B005",
-      "url": "https://www.youtube.com/watch?v=qeEB954C1lQ"
     },
     {
       "id": "yiXnB6km38c",
@@ -1056,6 +1047,15 @@
       "kind": "shorts",
       "episode": "T007",
       "url": "https://www.youtube.com/watch?v=Df-GRjTy9ak"
+    },
+    {
+      "id": "7bLb1ssYj9A",
+      "title": "[IPO] 공모가는 약속이 아니다",
+      "publishedAt": "2026-09-10T10:00:24Z",
+      "duration": "PT28S",
+      "kind": "shorts",
+      "episode": "T006",
+      "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
     },
     {
       "id": "tS50Z6NRNDQ",
