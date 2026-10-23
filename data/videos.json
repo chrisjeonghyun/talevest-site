@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-22T23:07:10.974444+00:00",
+  "updatedAt": "2026-10-23T00:07:11.126446+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "pkdR8xEKRwQ",
+      "title": "민수는 ISA를 연금으로 옮기면 한도가 늘까?",
+      "publishedAt": "2026-10-23T00:00:32Z",
+      "duration": "PT52S",
+      "kind": "shorts",
+      "episode": "S2B056",
+      "url": "https://www.youtube.com/watch?v=pkdR8xEKRwQ"
+    },
     {
       "id": "8NZgHCfzuQA",
       "title": "테라 루나 사태, 1달러 약속은 왜 무너졌나 | 교환 규칙과 현금 상환권",
