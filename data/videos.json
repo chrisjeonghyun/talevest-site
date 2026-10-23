@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-23T02:07:11.036115+00:00",
+  "updatedAt": "2026-10-23T03:07:11.539609+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "q4gJGKQMl2o",
+      "title": "[속보] 테슬라 매출은 비슷한데, 영업이익은 왜 줄었을까?",
+      "publishedAt": "2026-10-23T03:00:24Z",
+      "duration": "PT1M3S",
+      "kind": "shorts",
+      "episode": "BR-TSLA-EARNINGS-20261022",
+      "url": "https://www.youtube.com/watch?v=q4gJGKQMl2o"
+    },
     {
       "id": "pkdR8xEKRwQ",
       "title": "민수는 ISA를 연금으로 옮기면 한도가 늘까?",
