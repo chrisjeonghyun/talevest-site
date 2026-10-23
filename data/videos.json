@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-23T11:07:11.942839+00:00",
+  "updatedAt": "2026-10-23T12:07:11.977200+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -401,6 +401,15 @@
       "url": "https://www.youtube.com/watch?v=yKAXPQ6pw5w"
     },
     {
+      "id": "qeEB954C1lQ",
+      "title": "내년 100만원, 민수는 지금 얼마로 볼까?",
+      "publishedAt": "2026-10-14T10:00:09Z",
+      "duration": "PT26S",
+      "kind": "shorts",
+      "episode": "S2B005",
+      "url": "https://www.youtube.com/watch?v=qeEB954C1lQ"
+    },
+    {
       "id": "yiXnB6km38c",
       "title": "월급 오른 민수, 정말 5% 더 살 수 있을까?",
       "publishedAt": "2026-10-14T06:00:02Z",
@@ -777,15 +786,6 @@
       "kind": "shorts",
       "episode": "S2B047",
       "url": "https://www.youtube.com/watch?v=aTLwZg4XvZI"
-    },
-    {
-      "id": "9dAh0hTiOXM",
-      "title": "종부세 합산배제, 9월 30일까지 확인할 것",
-      "publishedAt": "2026-09-30T00:00:11Z",
-      "duration": "PT40S",
-      "kind": "shorts",
-      "episode": "CA005",
-      "url": "https://www.youtube.com/watch?v=9dAh0hTiOXM"
     },
     {
       "id": "KS6clHV0FOA",
