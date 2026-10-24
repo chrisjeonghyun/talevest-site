@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-24T02:07:12.204931+00:00",
+  "updatedAt": "2026-10-24T03:07:12.609223+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "0331vYwOCJk",
+      "title": "삼성바이오 매출 증가, 내 1주 이익도 늘었을까?",
+      "publishedAt": "2026-10-24T03:00:19Z",
+      "duration": "PT1M8S",
+      "kind": "shorts",
+      "episode": "CA-CDMO-20261026-P",
+      "url": "https://www.youtube.com/watch?v=0331vYwOCJk"
+    },
     {
       "id": "44dujHnWThU",
       "title": "민수는 세율을 연봉에 곱해도 될까?",
@@ -363,15 +372,6 @@
       "kind": "shorts",
       "episode": "S2B018",
       "url": "https://www.youtube.com/watch?v=Hsa7dWjIjII"
-    },
-    {
-      "id": "PUW0SqE_1w8",
-      "title": "플래시크래시, 거래가 폭주한 날",
-      "publishedAt": "2026-10-15T11:00:20Z",
-      "duration": "PT9M7S",
-      "kind": "longform",
-      "episode": "S3C05",
-      "url": "https://www.youtube.com/watch?v=PUW0SqE_1w8"
     },
     {
       "id": "0cVMSswWg3w",
@@ -867,6 +867,15 @@
       "kind": "shorts",
       "episode": "S3C01-HL03",
       "url": "https://www.youtube.com/watch?v=ZdHOyydfHs4"
+    },
+    {
+      "id": "joxFrUnV37E",
+      "title": "청년미래적금 10월 신청, 15%는 아직 확정 아닙니다",
+      "publishedAt": "2026-09-27T06:00:15Z",
+      "duration": "PT39S",
+      "kind": "shorts",
+      "episode": "CA001",
+      "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
     },
     {
       "id": "JdH4BBsyx-g",
