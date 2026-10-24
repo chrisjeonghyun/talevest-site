@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-23T23:07:14.629499+00:00",
+  "updatedAt": "2026-10-24T00:07:13.450774+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "44dujHnWThU",
+      "title": "민수는 세율을 연봉에 곱해도 될까?",
+      "publishedAt": "2026-10-24T00:00:32Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "S2B059",
+      "url": "https://www.youtube.com/watch?v=44dujHnWThU"
+    },
     {
       "id": "RgiZ0R16zcQ",
       "title": "영국 연금 LDI 위기, 650억 파운드는 무엇이었나 | 담보 요구와 현금의 시간표",
