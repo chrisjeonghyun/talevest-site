@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-24T04:07:20.169257+00:00",
+  "updatedAt": "2026-10-24T05:07:13.042860+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -356,15 +356,6 @@
       "url": "https://www.youtube.com/watch?v=u1hyEPKjA2Y"
     },
     {
-      "id": "KlXqQihhs_s",
-      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
-      "publishedAt": "2026-10-16T04:00:27Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "BR-TSMC-20261016",
-      "url": "https://www.youtube.com/watch?v=KlXqQihhs_s"
-    },
-    {
       "id": "Hsa7dWjIjII",
       "title": "민수의 대출 납입액, 왜 갑자기 뛸까?",
       "publishedAt": "2026-10-16T00:00:33Z",
@@ -372,6 +363,15 @@
       "kind": "shorts",
       "episode": "S2B018",
       "url": "https://www.youtube.com/watch?v=Hsa7dWjIjII"
+    },
+    {
+      "id": "PUW0SqE_1w8",
+      "title": "플래시크래시, 거래가 폭주한 날",
+      "publishedAt": "2026-10-15T11:00:20Z",
+      "duration": "PT9M7S",
+      "kind": "longform",
+      "episode": "S3C05",
+      "url": "https://www.youtube.com/watch?v=PUW0SqE_1w8"
     },
     {
       "id": "0cVMSswWg3w",
