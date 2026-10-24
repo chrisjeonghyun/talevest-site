@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-24T10:07:12.945201+00:00",
+  "updatedAt": "2026-10-24T11:07:13.316866+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "ep7BrC8mQCg",
+      "title": "[찬반토론] 예적금 vs ETF 적립, 목돈 모으는 방법",
+      "publishedAt": "2026-10-24T11:00:26Z",
+      "duration": "PT20M",
+      "kind": "longform",
+      "episode": "DB002",
+      "url": "https://www.youtube.com/watch?v=ep7BrC8mQCg"
+    },
     {
       "id": "Xlp8RQFB-oE",
       "title": "원금균등과 원리금균등, 첫 달이 싸면 총이자도 쌀까?",
@@ -381,6 +390,15 @@
       "kind": "shorts",
       "episode": "S2B018",
       "url": "https://www.youtube.com/watch?v=Hsa7dWjIjII"
+    },
+    {
+      "id": "PUW0SqE_1w8",
+      "title": "플래시크래시, 거래가 폭주한 날",
+      "publishedAt": "2026-10-15T11:00:20Z",
+      "duration": "PT9M7S",
+      "kind": "longform",
+      "episode": "S3C05",
+      "url": "https://www.youtube.com/watch?v=PUW0SqE_1w8"
     },
     {
       "id": "0cVMSswWg3w",
