@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-25T10:07:16.279844+00:00",
+  "updatedAt": "2026-10-25T11:07:15.918262+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "YgEe-t6invo",
+      "title": "나이트캐피털 45분, 4억 6천만 달러 손실은 어떻게 쌓였나 | 배포 오류와 주문 폭주",
+      "publishedAt": "2026-10-25T11:00:09Z",
+      "duration": "PT12M3S",
+      "kind": "longform",
+      "episode": "S3C10",
+      "url": "https://www.youtube.com/watch?v=YgEe-t6invo"
+    },
     {
       "id": "CXBWhRCu2BE",
       "title": "민수의 엔화 계산, 왜 100을 나눌까?",
