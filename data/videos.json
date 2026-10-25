@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-25T11:07:15.918262+00:00",
+  "updatedAt": "2026-10-25T12:07:15.920883+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -275,6 +275,15 @@
       "url": "https://www.youtube.com/watch?v=NrhBwUk3cpA"
     },
     {
+      "id": "z5ADzm26dg0",
+      "title": "국민연금 리밸런싱 유예, 정말 고점에 물렸나? 125조 감소의 진짜 쟁점",
+      "publishedAt": "2026-10-18T11:00:25Z",
+      "duration": "PT12M10S",
+      "kind": "longform",
+      "episode": "LF-NPS-REBALANCING-20261016",
+      "url": "https://www.youtube.com/watch?v=z5ADzm26dg0"
+    },
+    {
       "id": "SpByoYgMMEM",
       "title": "0.1%p 더 준다길래",
       "publishedAt": "2026-10-18T10:00:37Z",
@@ -284,6 +293,15 @@
       "url": "https://www.youtube.com/watch?v=SpByoYgMMEM"
     },
     {
+      "id": "dPbyVPPViRU",
+      "title": "원금은 돌아왔는데, 민수의 이자는 왜 끝날까?",
+      "publishedAt": "2026-10-18T06:00:35Z",
+      "duration": "PT22S",
+      "kind": "shorts",
+      "episode": "S2B039",
+      "url": "https://www.youtube.com/watch?v=dPbyVPPViRU"
+    },
+    {
       "id": "wuvFa_oG_5g",
       "title": "같은 부가세인데, 내 마감은 왜 다를까?",
       "publishedAt": "2026-10-18T00:00:36Z",
@@ -291,6 +309,15 @@
       "kind": "shorts",
       "episode": "CA008",
       "url": "https://www.youtube.com/watch?v=wuvFa_oG_5g"
+    },
+    {
+      "id": "qHqS3ZQQoh0",
+      "title": "테슬라와 SpaceX 합병설, 내 주식은 몇 주가 될까?",
+      "publishedAt": "2026-10-17T12:00:27Z",
+      "duration": "PT1M43S",
+      "kind": "shorts",
+      "episode": "BR-TSLA-SPACEX-20261017",
+      "url": "https://www.youtube.com/watch?v=qHqS3ZQQoh0"
     },
     {
       "id": "Hkc532jKfIw",
@@ -599,15 +626,6 @@
       "url": "https://www.youtube.com/watch?v=NgOtyRGyYGE"
     },
     {
-      "id": "ZbHqEJsIycw",
-      "title": "SVB 뱅크런 원인 | 하루 400억 달러, 실리콘밸리은행은 왜 못 막았나",
-      "publishedAt": "2026-10-07T11:00:23Z",
-      "duration": "PT8M44S",
-      "kind": "longform",
-      "episode": "S3C03",
-      "url": "https://www.youtube.com/watch?v=ZbHqEJsIycw"
-    },
-    {
       "id": "jm--6lQJBXc",
       "title": "저축을 늦추면 같은 목돈도 얼마나 달라질까?",
       "publishedAt": "2026-10-07T10:00:19Z",
@@ -624,6 +642,15 @@
       "kind": "shorts",
       "episode": "S2B041",
       "url": "https://www.youtube.com/watch?v=M8UCp0EqvNs"
+    },
+    {
+      "id": "Jr-7XlRs5g0",
+      "title": "청년미래적금 2차 신청 전, 이 세 가지부터",
+      "publishedAt": "2026-10-07T00:00:19Z",
+      "duration": "PT51S",
+      "kind": "shorts",
+      "episode": "CA006",
+      "url": "https://www.youtube.com/watch?v=Jr-7XlRs5g0"
     },
     {
       "id": "edAjJD5Lxu8",
