@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-25T05:07:12.921139+00:00",
+  "updatedAt": "2026-10-25T06:07:15.621574+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "CXBWhRCu2BE",
+      "title": "민수의 엔화 계산, 왜 100을 나눌까?",
+      "publishedAt": "2026-10-25T06:00:16Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "S2B043",
+      "url": "https://www.youtube.com/watch?v=CXBWhRCu2BE"
+    },
     {
       "id": "ep7BrC8mQCg",
       "title": "[찬반토론] 예적금 vs ETF 적립, 목돈 모으는 방법",
@@ -318,15 +327,6 @@
       "kind": "shorts",
       "episode": "S2B037",
       "url": "https://www.youtube.com/watch?v=Hkc532jKfIw"
-    },
-    {
-      "id": "p2xKx_By-h8",
-      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
-      "publishedAt": "2026-10-17T07:30:34Z",
-      "duration": "PT1M41S",
-      "kind": "shorts",
-      "episode": "SC-TSMC-DEPTH-20261016",
-      "url": "https://www.youtube.com/watch?v=p2xKx_By-h8"
     },
     {
       "id": "6uXY0hPe9us",
@@ -705,15 +705,6 @@
       "kind": "shorts",
       "episode": "S2B027",
       "url": "https://www.youtube.com/watch?v=QxIZX6-ofDg"
-    },
-    {
-      "id": "hTbTeVAQgVw",
-      "title": "대출 상환 vs 투자, 100만 원 어디에 쓸까? | 내 돈 계산",
-      "publishedAt": "2026-10-04T06:55:04Z",
-      "duration": "PT11M14S",
-      "kind": "longform",
-      "episode": "DB001",
-      "url": "https://www.youtube.com/watch?v=hTbTeVAQgVw"
     },
     {
       "id": "a-rVKDrh9cs",
