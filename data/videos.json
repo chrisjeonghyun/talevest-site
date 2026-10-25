@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-25T00:07:12.680273+00:00",
+  "updatedAt": "2026-10-25T01:07:13.224548+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -363,15 +363,6 @@
       "kind": "shorts",
       "episode": "S2B028",
       "url": "https://www.youtube.com/watch?v=gvCw3P3rEFs"
-    },
-    {
-      "id": "JWrVo7qWYGg",
-      "title": "주식 왜 떨어지나, 코스피 7.57% 급락과 미국 반등",
-      "publishedAt": "2026-10-16T07:30:40Z",
-      "duration": "PT19S",
-      "kind": "shorts",
-      "episode": "BR-MARKET-DROP-20261016",
-      "url": "https://www.youtube.com/watch?v=JWrVo7qWYGg"
     },
     {
       "id": "u1hyEPKjA2Y",
