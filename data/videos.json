@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-25T07:07:13.318955+00:00",
+  "updatedAt": "2026-10-25T08:07:15.522685+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -257,15 +257,6 @@
       "url": "https://www.youtube.com/watch?v=pYQ7UqmsgWc"
     },
     {
-      "id": "CRdgiT8QUIQ",
-      "title": "추가로 안 샀는데 왜 위험은 커질까?",
-      "publishedAt": "2026-10-19T03:00:20Z",
-      "duration": "PT18S",
-      "kind": "shorts",
-      "episode": "LF-NPS-REBALANCING-20261016-HL01",
-      "url": "https://www.youtube.com/watch?v=CRdgiT8QUIQ"
-    },
-    {
       "id": "NrhBwUk3cpA",
       "title": "주가는 올랐는데, 원화로는 왜 줄었을까?",
       "publishedAt": "2026-10-19T00:00:29Z",
@@ -273,15 +264,6 @@
       "kind": "shorts",
       "episode": "CA009",
       "url": "https://www.youtube.com/watch?v=NrhBwUk3cpA"
-    },
-    {
-      "id": "z5ADzm26dg0",
-      "title": "국민연금 리밸런싱 유예, 정말 고점에 물렸나? 125조 감소의 진짜 쟁점",
-      "publishedAt": "2026-10-18T11:00:25Z",
-      "duration": "PT12M10S",
-      "kind": "longform",
-      "episode": "LF-NPS-REBALANCING-20261016",
-      "url": "https://www.youtube.com/watch?v=z5ADzm26dg0"
     },
     {
       "id": "SpByoYgMMEM",
@@ -293,15 +275,6 @@
       "url": "https://www.youtube.com/watch?v=SpByoYgMMEM"
     },
     {
-      "id": "dPbyVPPViRU",
-      "title": "원금은 돌아왔는데, 민수의 이자는 왜 끝날까?",
-      "publishedAt": "2026-10-18T06:00:35Z",
-      "duration": "PT22S",
-      "kind": "shorts",
-      "episode": "S2B039",
-      "url": "https://www.youtube.com/watch?v=dPbyVPPViRU"
-    },
-    {
       "id": "wuvFa_oG_5g",
       "title": "같은 부가세인데, 내 마감은 왜 다를까?",
       "publishedAt": "2026-10-18T00:00:36Z",
@@ -309,15 +282,6 @@
       "kind": "shorts",
       "episode": "CA008",
       "url": "https://www.youtube.com/watch?v=wuvFa_oG_5g"
-    },
-    {
-      "id": "qHqS3ZQQoh0",
-      "title": "테슬라와 SpaceX 합병설, 내 주식은 몇 주가 될까?",
-      "publishedAt": "2026-10-17T12:00:27Z",
-      "duration": "PT1M43S",
-      "kind": "shorts",
-      "episode": "BR-TSLA-SPACEX-20261017",
-      "url": "https://www.youtube.com/watch?v=qHqS3ZQQoh0"
     },
     {
       "id": "Hkc532jKfIw",
@@ -329,6 +293,15 @@
       "url": "https://www.youtube.com/watch?v=Hkc532jKfIw"
     },
     {
+      "id": "p2xKx_By-h8",
+      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
+      "publishedAt": "2026-10-17T07:30:34Z",
+      "duration": "PT1M41S",
+      "kind": "shorts",
+      "episode": "SC-TSMC-DEPTH-20261016",
+      "url": "https://www.youtube.com/watch?v=p2xKx_By-h8"
+    },
+    {
       "id": "6uXY0hPe9us",
       "title": "민수 앞의 높은 이자, 공짜일까?",
       "publishedAt": "2026-10-17T06:00:12Z",
@@ -336,6 +309,15 @@
       "kind": "shorts",
       "episode": "S2B035",
       "url": "https://www.youtube.com/watch?v=6uXY0hPe9us"
+    },
+    {
+      "id": "ZFVHEGVAn_8",
+      "title": "서울 생활비, 혼자 살면 어디로 나갈까?",
+      "publishedAt": "2026-10-17T03:00:32Z",
+      "duration": "PT2M10S",
+      "kind": "shorts",
+      "episode": "SC-SEOUL-LIVING-20261016",
+      "url": "https://www.youtube.com/watch?v=ZFVHEGVAn_8"
     },
     {
       "id": "S82iDQb7U9E",
@@ -635,15 +617,6 @@
       "url": "https://www.youtube.com/watch?v=M8UCp0EqvNs"
     },
     {
-      "id": "Jr-7XlRs5g0",
-      "title": "청년미래적금 2차 신청 전, 이 세 가지부터",
-      "publishedAt": "2026-10-07T00:00:19Z",
-      "duration": "PT51S",
-      "kind": "shorts",
-      "episode": "CA006",
-      "url": "https://www.youtube.com/watch?v=Jr-7XlRs5g0"
-    },
-    {
       "id": "edAjJD5Lxu8",
       "title": "채권을 액면보다 싸게 사면 수익은 어디서 날까?",
       "publishedAt": "2026-10-06T10:00:20Z",
@@ -705,6 +678,15 @@
       "kind": "shorts",
       "episode": "S2B027",
       "url": "https://www.youtube.com/watch?v=QxIZX6-ofDg"
+    },
+    {
+      "id": "hTbTeVAQgVw",
+      "title": "대출 상환 vs 투자, 100만 원 어디에 쓸까? | 내 돈 계산",
+      "publishedAt": "2026-10-04T06:55:04Z",
+      "duration": "PT11M14S",
+      "kind": "longform",
+      "episode": "DB001",
+      "url": "https://www.youtube.com/watch?v=hTbTeVAQgVw"
     },
     {
       "id": "a-rVKDrh9cs",
