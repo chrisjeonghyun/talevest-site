@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-25T22:07:17.180462+00:00",
+  "updatedAt": "2026-10-25T23:07:15.710561+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -264,6 +264,15 @@
       "kind": "shorts",
       "episode": "S2B044",
       "url": "https://www.youtube.com/watch?v=pYQ7UqmsgWc"
+    },
+    {
+      "id": "CRdgiT8QUIQ",
+      "title": "추가로 안 샀는데 왜 위험은 커질까?",
+      "publishedAt": "2026-10-19T03:00:20Z",
+      "duration": "PT18S",
+      "kind": "shorts",
+      "episode": "LF-NPS-REBALANCING-20261016-HL01",
+      "url": "https://www.youtube.com/watch?v=CRdgiT8QUIQ"
     },
     {
       "id": "NrhBwUk3cpA",
@@ -624,6 +633,15 @@
       "kind": "shorts",
       "episode": "S2B013",
       "url": "https://www.youtube.com/watch?v=NgOtyRGyYGE"
+    },
+    {
+      "id": "ZbHqEJsIycw",
+      "title": "SVB 뱅크런 원인 | 하루 400억 달러, 실리콘밸리은행은 왜 못 막았나",
+      "publishedAt": "2026-10-07T11:00:23Z",
+      "duration": "PT8M44S",
+      "kind": "longform",
+      "episode": "S3C03",
+      "url": "https://www.youtube.com/watch?v=ZbHqEJsIycw"
     },
     {
       "id": "jm--6lQJBXc",
