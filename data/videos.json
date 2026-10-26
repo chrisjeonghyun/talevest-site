@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-25T23:07:15.710561+00:00",
+  "updatedAt": "2026-10-26T00:07:16.667095+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Wqioy2bVZCc",
+      "title": "기준금리 동결인데 내 대출 이자는 왜 따로 움직일까",
+      "publishedAt": "2026-10-26T00:00:17Z",
+      "duration": "PT40S",
+      "kind": "shorts",
+      "episode": "FRESH-20261026-0900",
+      "url": "https://www.youtube.com/watch?v=Wqioy2bVZCc"
+    },
     {
       "id": "YgEe-t6invo",
       "title": "나이트캐피털 45분, 4억 6천만 달러 손실은 어떻게 쌓였나 | 배포 오류와 주문 폭주",
