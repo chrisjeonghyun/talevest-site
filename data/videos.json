@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-27T08:07:16.364272+00:00",
+  "updatedAt": "2026-10-27T10:07:18.028833+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Kdw2N-rIyNM",
+      "title": "구독 앱을 지웠는데, 결제도 멈췄을까?",
+      "publishedAt": "2026-10-27T10:00:10Z",
+      "duration": "PT1M",
+      "kind": "shorts",
+      "episode": "NEW-20261027-1900",
+      "url": "https://www.youtube.com/watch?v=Kdw2N-rIyNM"
+    },
     {
       "id": "HhKXsXAz9nc",
       "title": "삼성전자 주식과 ETF, 노출도 둘로 나뉠까?",
