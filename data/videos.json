@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-27T12:07:15.776785+00:00",
+  "updatedAt": "2026-10-27T13:07:15.896542+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -257,15 +257,6 @@
       "url": "https://www.youtube.com/watch?v=qZYuLPX7gJs"
     },
     {
-      "id": "WJC4JVynXz8",
-      "title": "주가 하락, 물가와 AI 투자 부담을 내 계좌로 읽기",
-      "publishedAt": "2026-10-20T11:00:36Z",
-      "duration": "PT10M49S",
-      "kind": "longform",
-      "episode": "LF-MARKET-EXPLAIN",
-      "url": "https://www.youtube.com/watch?v=WJC4JVynXz8"
-    },
-    {
       "id": "ixVMESXg-wk",
       "title": "리먼, 자산이 있어도 왜 현금이 막혔나?",
       "publishedAt": "2026-10-20T10:00:35Z",
@@ -273,6 +264,15 @@
       "kind": "shorts",
       "episode": "REAL-LEHMAN",
       "url": "https://www.youtube.com/watch?v=ixVMESXg-wk"
+    },
+    {
+      "id": "x23_1X0jk2k",
+      "title": "넷플릭스 실적, 내 ETF에는 얼마가 움직일까?",
+      "publishedAt": "2026-10-20T07:30:12Z",
+      "duration": "PT1M11S",
+      "kind": "shorts",
+      "episode": "SC-NFLX-PREVIEW-20261018",
+      "url": "https://www.youtube.com/watch?v=x23_1X0jk2k"
     },
     {
       "id": "j2_vqo6AY08",
