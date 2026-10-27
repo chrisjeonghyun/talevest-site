@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-27T10:07:18.028833+00:00",
+  "updatedAt": "2026-10-27T11:07:16.072785+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "22P2ejaQwmI",
+      "title": "오렌지카운티 파산 1994, 지방정부는 어떻게 거의 17억 달러를 잃었나 | 역레포와 금리 상승",
+      "publishedAt": "2026-10-27T11:00:38Z",
+      "duration": "PT12M8S",
+      "kind": "longform",
+      "episode": "S3C11",
+      "url": "https://www.youtube.com/watch?v=22P2ejaQwmI"
+    },
     {
       "id": "Kdw2N-rIyNM",
       "title": "구독 앱을 지웠는데, 결제도 멈췄을까?",
