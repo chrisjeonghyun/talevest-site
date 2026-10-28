@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-28T10:07:17.122026+00:00",
+  "updatedAt": "2026-10-28T11:07:18.405585+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "1etQETS8-JQ",
+      "title": "46억 파운드 인출, 먼저 막힌 돈줄 | 노던록",
+      "publishedAt": "2026-10-28T11:00:33Z",
+      "duration": "PT11M58S",
+      "kind": "longform",
+      "episode": "S3C12",
+      "url": "https://www.youtube.com/watch?v=1etQETS8-JQ"
+    },
     {
       "id": "YKz0xHM9f2k",
       "title": "지급일 직전 산 민수, 이자는 공짜일까?",
