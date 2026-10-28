@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-28T06:07:16.115473+00:00",
+  "updatedAt": "2026-10-28T07:07:16.084661+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -212,15 +212,6 @@
       "url": "https://www.youtube.com/watch?v=s6Cit5y6PFA"
     },
     {
-      "id": "jO7avWSJZm4",
-      "title": "연금저축과 IRP, 한도가 같을까?",
-      "publishedAt": "2026-10-22T00:00:32Z",
-      "duration": "PT1M8S",
-      "kind": "shorts",
-      "episode": "S2B054",
-      "url": "https://www.youtube.com/watch?v=jO7avWSJZm4"
-    },
-    {
       "id": "BABZtbbhQ7Q",
       "title": "반도체와 전력 ETF, 두 개를 샀는데 위험은 나뉘었을까?",
       "publishedAt": "2026-10-21T11:00:15Z",
@@ -228,6 +219,15 @@
       "kind": "longform",
       "episode": "LF-AI-POWER-STRUCTURE",
       "url": "https://www.youtube.com/watch?v=BABZtbbhQ7Q"
+    },
+    {
+      "id": "y41jzvu-W-4",
+      "title": "100달러 보낸 민수, 왜 95달러만 왔을까?",
+      "publishedAt": "2026-10-21T10:00:03Z",
+      "duration": "PT1M22S",
+      "kind": "shorts",
+      "episode": "S2B048",
+      "url": "https://www.youtube.com/watch?v=y41jzvu-W-4"
     },
     {
       "id": "Pe_VuUxScbg",
@@ -1038,15 +1038,6 @@
       "kind": "shorts",
       "episode": "T020",
       "url": "https://www.youtube.com/watch?v=tY6Ojs3W6eA"
-    },
-    {
-      "id": "EIInCCwf0FA",
-      "title": "[아케고스] 이틀 만에 사라진 360억 달러",
-      "publishedAt": "2026-09-24T12:30:20Z",
-      "duration": "PT5M57S",
-      "kind": "longform",
-      "episode": "S3C01",
-      "url": "https://www.youtube.com/watch?v=EIInCCwf0FA"
     },
     {
       "id": "iIVNx7s37YM",
