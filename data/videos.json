@@ -1,9 +1,27 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-28T09:07:16.245385+00:00",
+  "updatedAt": "2026-10-28T10:07:17.122026+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "YKz0xHM9f2k",
+      "title": "지급일 직전 산 민수, 이자는 공짜일까?",
+      "publishedAt": "2026-10-28T10:00:36Z",
+      "duration": "PT53S",
+      "kind": "shorts",
+      "episode": "S2B040",
+      "url": "https://www.youtube.com/watch?v=YKz0xHM9f2k"
+    },
+    {
+      "id": "UWn8HYuwouI",
+      "title": "하이닉스 10.89% 올랐는데, 환율도 14원 올랐다",
+      "publishedAt": "2026-10-28T09:45:38Z",
+      "duration": "PT1M24S",
+      "kind": "shorts",
+      "episode": "FRESH-20261028-1845",
+      "url": "https://www.youtube.com/watch?v=UWn8HYuwouI"
+    },
     {
       "id": "lpAxXRokT7U",
       "title": "하이닉스 영업이익 38% 늘고 순이익 58% 줄었다",
@@ -176,24 +194,6 @@
       "url": "https://www.youtube.com/watch?v=uz334xd0l4M"
     },
     {
-      "id": "q4gJGKQMl2o",
-      "title": "[속보] 테슬라 매출은 비슷한데, 영업이익은 왜 줄었을까?",
-      "publishedAt": "2026-10-23T03:00:24Z",
-      "duration": "PT1M3S",
-      "kind": "shorts",
-      "episode": "BR-TSLA-EARNINGS-20261022",
-      "url": "https://www.youtube.com/watch?v=q4gJGKQMl2o"
-    },
-    {
-      "id": "pkdR8xEKRwQ",
-      "title": "민수는 ISA를 연금으로 옮기면 한도가 늘까?",
-      "publishedAt": "2026-10-23T00:00:32Z",
-      "duration": "PT52S",
-      "kind": "shorts",
-      "episode": "S2B056",
-      "url": "https://www.youtube.com/watch?v=pkdR8xEKRwQ"
-    },
-    {
       "id": "8NZgHCfzuQA",
       "title": "테라 루나 사태, 1달러 약속은 왜 무너졌나 | 교환 규칙과 현금 상환권",
       "publishedAt": "2026-10-22T11:00:06Z",
@@ -201,6 +201,15 @@
       "kind": "longform",
       "episode": "S3C08",
       "url": "https://www.youtube.com/watch?v=8NZgHCfzuQA"
+    },
+    {
+      "id": "g9TGg65q2iQ",
+      "title": "1년 뒤 100만 원은 오늘 얼마일까? | 현재가치 계산",
+      "publishedAt": "2026-10-22T10:00:06Z",
+      "duration": "PT1M12S",
+      "kind": "shorts",
+      "episode": "REPACK-005",
+      "url": "https://www.youtube.com/watch?v=g9TGg65q2iQ"
     },
     {
       "id": "s6Cit5y6PFA",
@@ -608,6 +617,15 @@
       "url": "https://www.youtube.com/watch?v=ShqCrWMxDCc"
     },
     {
+      "id": "ou3w2WfXDJ8",
+      "title": "민수의 같은 이자, 왜 다음 수익은 줄까?",
+      "publishedAt": "2026-10-12T10:00:08Z",
+      "duration": "PT23S",
+      "kind": "shorts",
+      "episode": "S2B038",
+      "url": "https://www.youtube.com/watch?v=ou3w2WfXDJ8"
+    },
+    {
       "id": "YtnsC80uWVo",
       "title": "갚았는데 760만원 남았다, 왜일까요?",
       "publishedAt": "2026-10-12T06:00:07Z",
@@ -1004,22 +1022,13 @@
       "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
     },
     {
-      "id": "JdH4BBsyx-g",
-      "title": "총수익스왑 TRS, 여섯 은행이 위험을 못 본 이유",
-      "publishedAt": "2026-09-27T05:00:31Z",
-      "duration": "PT14S",
-      "kind": "shorts",
-      "episode": "S3C01-HL02",
-      "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
-    },
-    {
-      "id": "tn8TwLblYF4",
-      "title": "아케고스 사태, 먼저 판 은행이 덜 잃은 이유",
-      "publishedAt": "2026-09-27T00:00:12Z",
-      "duration": "PT14S",
-      "kind": "shorts",
-      "episode": "S3C01-HL01",
-      "url": "https://www.youtube.com/watch?v=tn8TwLblYF4"
+      "id": "xb4YYpqR168",
+      "title": "[닉 리슨·베어링스] 계좌 88888이 무너뜨린 은행",
+      "publishedAt": "2026-09-26T11:00:07Z",
+      "duration": "PT8M13S",
+      "kind": "longform",
+      "episode": "S3C02",
+      "url": "https://www.youtube.com/watch?v=xb4YYpqR168"
     },
     {
       "id": "KHfwFqAxtWY",
@@ -1038,6 +1047,15 @@
       "kind": "shorts",
       "episode": "T020",
       "url": "https://www.youtube.com/watch?v=tY6Ojs3W6eA"
+    },
+    {
+      "id": "EIInCCwf0FA",
+      "title": "[아케고스] 이틀 만에 사라진 360억 달러",
+      "publishedAt": "2026-09-24T12:30:20Z",
+      "duration": "PT5M57S",
+      "kind": "longform",
+      "episode": "S3C01",
+      "url": "https://www.youtube.com/watch?v=EIInCCwf0FA"
     },
     {
       "id": "iIVNx7s37YM",
@@ -1254,15 +1272,6 @@
       "kind": "shorts",
       "episode": "T032",
       "url": "https://www.youtube.com/watch?v=boIYad8806A"
-    },
-    {
-      "id": "O44B06FpsB4",
-      "title": "[상한가·하한가] 상한가 다음 날 벌어지는 일",
-      "publishedAt": "2026-09-03T03:00:08Z",
-      "duration": "PT30S",
-      "kind": "shorts",
-      "episode": "T017",
-      "url": "https://www.youtube.com/watch?v=O44B06FpsB4"
     },
     {
       "id": "zinDYmvxpuE",
