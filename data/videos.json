@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-29T04:07:17.484982+00:00",
+  "updatedAt": "2026-10-29T05:07:17.747153+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -194,13 +194,13 @@
       "url": "https://www.youtube.com/watch?v=RgiZ0R16zcQ"
     },
     {
-      "id": "j6KhFxX-2NI",
-      "title": "환율이 같아도 민수는 왜 돈을 잃을까?",
-      "publishedAt": "2026-10-23T10:00:04Z",
-      "duration": "PT46S",
+      "id": "uz334xd0l4M",
+      "title": "SVB에서는 왜 예금이 한꺼번에 빠졌나?",
+      "publishedAt": "2026-10-23T06:00:23Z",
+      "duration": "PT49S",
       "kind": "shorts",
-      "episode": "S2B045",
-      "url": "https://www.youtube.com/watch?v=j6KhFxX-2NI"
+      "episode": "REAL-SVB",
+      "url": "https://www.youtube.com/watch?v=uz334xd0l4M"
     },
     {
       "id": "pkdR8xEKRwQ",
@@ -1272,15 +1272,6 @@
       "kind": "shorts",
       "episode": "EP001",
       "url": "https://www.youtube.com/watch?v=vsGVmrSKaKY"
-    },
-    {
-      "id": "wUY7SVvbn0Q",
-      "title": "[서킷브레이커·사이드카] 매도 버튼이 죽었습니다",
-      "publishedAt": "2026-09-03T12:30:34Z",
-      "duration": "PT50S",
-      "kind": "shorts",
-      "episode": "T018",
-      "url": "https://www.youtube.com/watch?v=wUY7SVvbn0Q"
     },
     {
       "id": "boIYad8806A",
