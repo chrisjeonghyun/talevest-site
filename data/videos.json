@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-29T22:07:17.758114+00:00",
+  "updatedAt": "2026-10-29T23:07:18.933412+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "JfFRe6-oDPA",
+      "title": "환불받았는데, 카드값에는 왜 남아 있을까?",
+      "publishedAt": "2026-10-29T22:30:35Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "NEW-20261030-1900",
+      "url": "https://www.youtube.com/watch?v=JfFRe6-oDPA"
+    },
     {
       "id": "ef0jplKRFhY",
       "title": "지수는 올랐는데, 내 ETF는 왜 다를까?",
