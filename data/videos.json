@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-29T02:07:16.939705+00:00",
+  "updatedAt": "2026-10-29T03:07:16.706078+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -203,13 +203,13 @@
       "url": "https://www.youtube.com/watch?v=j6KhFxX-2NI"
     },
     {
-      "id": "uz334xd0l4M",
-      "title": "SVB에서는 왜 예금이 한꺼번에 빠졌나?",
-      "publishedAt": "2026-10-23T06:00:23Z",
-      "duration": "PT49S",
+      "id": "pkdR8xEKRwQ",
+      "title": "민수는 ISA를 연금으로 옮기면 한도가 늘까?",
+      "publishedAt": "2026-10-23T00:00:32Z",
+      "duration": "PT52S",
       "kind": "shorts",
-      "episode": "REAL-SVB",
-      "url": "https://www.youtube.com/watch?v=uz334xd0l4M"
+      "episode": "S2B056",
+      "url": "https://www.youtube.com/watch?v=pkdR8xEKRwQ"
     },
     {
       "id": "8NZgHCfzuQA",
@@ -1031,13 +1031,13 @@
       "url": "https://www.youtube.com/watch?v=ZdHOyydfHs4"
     },
     {
-      "id": "joxFrUnV37E",
-      "title": "청년미래적금 10월 신청, 15%는 아직 확정 아닙니다",
-      "publishedAt": "2026-09-27T06:00:15Z",
-      "duration": "PT39S",
+      "id": "JdH4BBsyx-g",
+      "title": "총수익스왑 TRS, 여섯 은행이 위험을 못 본 이유",
+      "publishedAt": "2026-09-27T05:00:31Z",
+      "duration": "PT14S",
       "kind": "shorts",
-      "episode": "CA001",
-      "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
+      "episode": "S3C01-HL02",
+      "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
     },
     {
       "id": "xb4YYpqR168",
