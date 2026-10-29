@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-29T06:07:17.999134+00:00",
+  "updatedAt": "2026-10-29T07:07:18.811732+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -1274,13 +1274,13 @@
       "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
     },
     {
-      "id": "Xk_QPrv6aZY",
-      "title": "[코스피·코스닥] 코스피와 코스닥의 차이",
-      "publishedAt": "2026-09-08T10:00:04Z",
+      "id": "gd_axkVSKjM",
+      "title": "[주가지수] 같은 지수, 다른 힘",
+      "publishedAt": "2026-09-07T10:00:23Z",
       "duration": "PT27S",
       "kind": "shorts",
-      "episode": "T004",
-      "url": "https://www.youtube.com/watch?v=Xk_QPrv6aZY"
+      "episode": "T003",
+      "url": "https://www.youtube.com/watch?v=gd_axkVSKjM"
     },
     {
       "id": "vsGVmrSKaKY",
