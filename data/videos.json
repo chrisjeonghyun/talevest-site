@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-29T08:07:17.281875+00:00",
+  "updatedAt": "2026-10-29T09:07:17.424263+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -471,15 +471,6 @@
       "kind": "shorts",
       "episode": "S2B035",
       "url": "https://www.youtube.com/watch?v=6uXY0hPe9us"
-    },
-    {
-      "id": "ZFVHEGVAn_8",
-      "title": "서울 생활비, 혼자 살면 어디로 나갈까?",
-      "publishedAt": "2026-10-17T03:00:32Z",
-      "duration": "PT2M10S",
-      "kind": "shorts",
-      "episode": "SC-SEOUL-LIVING-20261016",
-      "url": "https://www.youtube.com/watch?v=ZFVHEGVAn_8"
     },
     {
       "id": "S82iDQb7U9E",
@@ -968,6 +959,15 @@
       "url": "https://www.youtube.com/watch?v=aTLwZg4XvZI"
     },
     {
+      "id": "9dAh0hTiOXM",
+      "title": "종부세 합산배제, 9월 30일까지 확인할 것",
+      "publishedAt": "2026-09-30T00:00:11Z",
+      "duration": "PT40S",
+      "kind": "shorts",
+      "episode": "CA005",
+      "url": "https://www.youtube.com/watch?v=9dAh0hTiOXM"
+    },
+    {
       "id": "KS6clHV0FOA",
       "title": "비상금 300만원이면 몇 달을 버틸까?",
       "publishedAt": "2026-09-29T06:00:31Z",
@@ -1038,6 +1038,15 @@
       "kind": "shorts",
       "episode": "S3C01-HL03",
       "url": "https://www.youtube.com/watch?v=ZdHOyydfHs4"
+    },
+    {
+      "id": "joxFrUnV37E",
+      "title": "청년미래적금 10월 신청, 15%는 아직 확정 아닙니다",
+      "publishedAt": "2026-09-27T06:00:15Z",
+      "duration": "PT39S",
+      "kind": "shorts",
+      "episode": "CA001",
+      "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
     },
     {
       "id": "JdH4BBsyx-g",
