@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-29T05:07:17.747153+00:00",
+  "updatedAt": "2026-10-29T06:07:17.999134+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -194,6 +194,15 @@
       "url": "https://www.youtube.com/watch?v=RgiZ0R16zcQ"
     },
     {
+      "id": "j6KhFxX-2NI",
+      "title": "환율이 같아도 민수는 왜 돈을 잃을까?",
+      "publishedAt": "2026-10-23T10:00:04Z",
+      "duration": "PT46S",
+      "kind": "shorts",
+      "episode": "S2B045",
+      "url": "https://www.youtube.com/watch?v=j6KhFxX-2NI"
+    },
+    {
       "id": "uz334xd0l4M",
       "title": "SVB에서는 왜 예금이 한꺼번에 빠졌나?",
       "publishedAt": "2026-10-23T06:00:23Z",
@@ -201,6 +210,15 @@
       "kind": "shorts",
       "episode": "REAL-SVB",
       "url": "https://www.youtube.com/watch?v=uz334xd0l4M"
+    },
+    {
+      "id": "q4gJGKQMl2o",
+      "title": "[속보] 테슬라 매출은 비슷한데, 영업이익은 왜 줄었을까?",
+      "publishedAt": "2026-10-23T03:00:24Z",
+      "duration": "PT1M3S",
+      "kind": "shorts",
+      "episode": "BR-TSLA-EARNINGS-20261022",
+      "url": "https://www.youtube.com/watch?v=q4gJGKQMl2o"
     },
     {
       "id": "pkdR8xEKRwQ",
@@ -1040,6 +1058,15 @@
       "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
     },
     {
+      "id": "tn8TwLblYF4",
+      "title": "아케고스 사태, 먼저 판 은행이 덜 잃은 이유",
+      "publishedAt": "2026-09-27T00:00:12Z",
+      "duration": "PT14S",
+      "kind": "shorts",
+      "episode": "S3C01-HL01",
+      "url": "https://www.youtube.com/watch?v=tn8TwLblYF4"
+    },
+    {
       "id": "xb4YYpqR168",
       "title": "[닉 리슨·베어링스] 계좌 88888이 무너뜨린 은행",
       "publishedAt": "2026-09-26T11:00:07Z",
@@ -1256,15 +1283,6 @@
       "url": "https://www.youtube.com/watch?v=Xk_QPrv6aZY"
     },
     {
-      "id": "gd_axkVSKjM",
-      "title": "[주가지수] 같은 지수, 다른 힘",
-      "publishedAt": "2026-09-07T10:00:23Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "T003",
-      "url": "https://www.youtube.com/watch?v=gd_axkVSKjM"
-    },
-    {
       "id": "vsGVmrSKaKY",
       "title": "[코스피200 ETF] 이 상품에 넣은 돈의 4분의 1이 한 회사로 갑니다",
       "publishedAt": "2026-09-04T10:00:10Z",
@@ -1274,6 +1292,15 @@
       "url": "https://www.youtube.com/watch?v=vsGVmrSKaKY"
     },
     {
+      "id": "wUY7SVvbn0Q",
+      "title": "[서킷브레이커·사이드카] 매도 버튼이 죽었습니다",
+      "publishedAt": "2026-09-03T12:30:34Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "T018",
+      "url": "https://www.youtube.com/watch?v=wUY7SVvbn0Q"
+    },
+    {
       "id": "boIYad8806A",
       "title": "[테마주·작전주] 석 달 만의 여섯 배 급등",
       "publishedAt": "2026-09-03T10:00:25Z",
@@ -1281,6 +1308,15 @@
       "kind": "shorts",
       "episode": "T032",
       "url": "https://www.youtube.com/watch?v=boIYad8806A"
+    },
+    {
+      "id": "O44B06FpsB4",
+      "title": "[상한가·하한가] 상한가 다음 날 벌어지는 일",
+      "publishedAt": "2026-09-03T03:00:08Z",
+      "duration": "PT30S",
+      "kind": "shorts",
+      "episode": "T017",
+      "url": "https://www.youtube.com/watch?v=O44B06FpsB4"
     },
     {
       "id": "zinDYmvxpuE",
