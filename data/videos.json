@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-30T07:07:21.056594+00:00",
+  "updatedAt": "2026-10-30T08:07:20.934220+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -419,15 +419,6 @@
       "url": "https://www.youtube.com/watch?v=pYQ7UqmsgWc"
     },
     {
-      "id": "CRdgiT8QUIQ",
-      "title": "추가로 안 샀는데 왜 위험은 커질까?",
-      "publishedAt": "2026-10-19T03:00:20Z",
-      "duration": "PT18S",
-      "kind": "shorts",
-      "episode": "LF-NPS-REBALANCING-20261016-HL01",
-      "url": "https://www.youtube.com/watch?v=CRdgiT8QUIQ"
-    },
-    {
       "id": "NrhBwUk3cpA",
       "title": "주가는 올랐는데, 원화로는 왜 줄었을까?",
       "publishedAt": "2026-10-19T00:00:29Z",
@@ -779,15 +770,6 @@
       "url": "https://www.youtube.com/watch?v=M8UCp0EqvNs"
     },
     {
-      "id": "Jr-7XlRs5g0",
-      "title": "청년미래적금 2차 신청 전, 이 세 가지부터",
-      "publishedAt": "2026-10-07T00:00:19Z",
-      "duration": "PT51S",
-      "kind": "shorts",
-      "episode": "CA006",
-      "url": "https://www.youtube.com/watch?v=Jr-7XlRs5g0"
-    },
-    {
       "id": "edAjJD5Lxu8",
       "title": "채권을 액면보다 싸게 사면 수익은 어디서 날까?",
       "publishedAt": "2026-10-06T10:00:20Z",
@@ -849,6 +831,15 @@
       "kind": "shorts",
       "episode": "S2B027",
       "url": "https://www.youtube.com/watch?v=QxIZX6-ofDg"
+    },
+    {
+      "id": "hTbTeVAQgVw",
+      "title": "대출 상환 vs 투자, 100만 원 어디에 쓸까? | 내 돈 계산",
+      "publishedAt": "2026-10-04T06:55:04Z",
+      "duration": "PT11M14S",
+      "kind": "longform",
+      "episode": "DB001",
+      "url": "https://www.youtube.com/watch?v=hTbTeVAQgVw"
     },
     {
       "id": "a-rVKDrh9cs",
