@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-30T22:07:21.082292+00:00",
+  "updatedAt": "2026-10-30T23:07:21.994458+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "aDPO62_AEmY",
+      "title": "적립금을 쓰려고 더 산 물건, 정말 싸졌을까?",
+      "publishedAt": "2026-10-30T22:30:36Z",
+      "duration": "PT45S",
+      "kind": "shorts",
+      "episode": "NEW-20261031-1900",
+      "url": "https://www.youtube.com/watch?v=aDPO62_AEmY"
+    },
     {
       "id": "mlhxe7A6bzs",
       "title": "생활비 210만 원, 정리하니 186만 원이었다",
