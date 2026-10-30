@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-30T03:07:21.144936+00:00",
+  "updatedAt": "2026-10-30T07:07:21.056594+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "m--RDWzzWbg",
+      "title": "삼성 영업이익 107조, 반도체 빼면 1조도 안 남는다",
+      "publishedAt": "2026-10-30T06:00:31Z",
+      "duration": "PT1M6S",
+      "kind": "shorts",
+      "episode": "FRESH-20261030-1500",
+      "url": "https://www.youtube.com/watch?v=m--RDWzzWbg"
+    },
     {
       "id": "hav3Rdk1eEU",
       "title": "주문이 취소된 시장, 내 거래는 어디로 갔을까?",
@@ -428,15 +437,6 @@
       "url": "https://www.youtube.com/watch?v=NrhBwUk3cpA"
     },
     {
-      "id": "z5ADzm26dg0",
-      "title": "국민연금 리밸런싱 유예, 정말 고점에 물렸나? 125조 감소의 진짜 쟁점",
-      "publishedAt": "2026-10-18T11:00:25Z",
-      "duration": "PT12M10S",
-      "kind": "longform",
-      "episode": "LF-NPS-REBALANCING-20261016",
-      "url": "https://www.youtube.com/watch?v=z5ADzm26dg0"
-    },
-    {
       "id": "SpByoYgMMEM",
       "title": "0.1%p 더 준다길래",
       "publishedAt": "2026-10-18T10:00:37Z",
@@ -446,33 +446,6 @@
       "url": "https://www.youtube.com/watch?v=SpByoYgMMEM"
     },
     {
-      "id": "dPbyVPPViRU",
-      "title": "원금은 돌아왔는데, 민수의 이자는 왜 끝날까?",
-      "publishedAt": "2026-10-18T06:00:35Z",
-      "duration": "PT22S",
-      "kind": "shorts",
-      "episode": "S2B039",
-      "url": "https://www.youtube.com/watch?v=dPbyVPPViRU"
-    },
-    {
-      "id": "wuvFa_oG_5g",
-      "title": "같은 부가세인데, 내 마감은 왜 다를까?",
-      "publishedAt": "2026-10-18T00:00:36Z",
-      "duration": "PT20S",
-      "kind": "shorts",
-      "episode": "CA008",
-      "url": "https://www.youtube.com/watch?v=wuvFa_oG_5g"
-    },
-    {
-      "id": "qHqS3ZQQoh0",
-      "title": "테슬라와 SpaceX 합병설, 내 주식은 몇 주가 될까?",
-      "publishedAt": "2026-10-17T12:00:27Z",
-      "duration": "PT1M43S",
-      "kind": "shorts",
-      "episode": "BR-TSLA-SPACEX-20261017",
-      "url": "https://www.youtube.com/watch?v=qHqS3ZQQoh0"
-    },
-    {
       "id": "Hkc532jKfIw",
       "title": "회수율 40%, 민수는 얼마를 잃을까?",
       "publishedAt": "2026-10-17T10:00:04Z",
@@ -480,6 +453,15 @@
       "kind": "shorts",
       "episode": "S2B037",
       "url": "https://www.youtube.com/watch?v=Hkc532jKfIw"
+    },
+    {
+      "id": "p2xKx_By-h8",
+      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
+      "publishedAt": "2026-10-17T07:30:34Z",
+      "duration": "PT1M41S",
+      "kind": "shorts",
+      "episode": "SC-TSMC-DEPTH-20261016",
+      "url": "https://www.youtube.com/watch?v=p2xKx_By-h8"
     },
     {
       "id": "6uXY0hPe9us",
