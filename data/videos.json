@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-31T01:07:21.714796+00:00",
+  "updatedAt": "2026-10-31T02:07:22.368827+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -356,13 +356,13 @@
       "url": "https://www.youtube.com/watch?v=eEaopVFy6O0"
     },
     {
-      "id": "qZYuLPX7gJs",
-      "title": "반도체 ETF vs 전력설비 ETF, 같은 돈 다른 이름?",
-      "publishedAt": "2026-10-21T00:00:39Z",
-      "duration": "PT21S",
-      "kind": "shorts",
-      "episode": "CMP-AI-POWER-20261021-P",
-      "url": "https://www.youtube.com/watch?v=qZYuLPX7gJs"
+      "id": "WJC4JVynXz8",
+      "title": "주가 하락, 물가와 AI 투자 부담을 내 계좌로 읽기",
+      "publishedAt": "2026-10-20T11:00:36Z",
+      "duration": "PT10M49S",
+      "kind": "longform",
+      "episode": "LF-MARKET-EXPLAIN",
+      "url": "https://www.youtube.com/watch?v=WJC4JVynXz8"
     },
     {
       "id": "ixVMESXg-wk",
