@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-31T10:07:21.181655+00:00",
+  "updatedAt": "2026-10-31T11:07:20.975040+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "7q-UklBKZt8",
+      "title": "앤트로픽 매출 14배, 왜 순손실은 807억 달러일까",
+      "publishedAt": "2026-10-31T11:00:37Z",
+      "duration": "PT20M2S",
+      "kind": "longform",
+      "episode": "LF-ANTHROPIC-IPO-7512",
+      "url": "https://www.youtube.com/watch?v=7q-UklBKZt8"
+    },
     {
       "id": "q-2sA8Li3NM",
       "title": "연금 세액공제 15%와 12%, 갈리는 건 소득 기준입니다",
