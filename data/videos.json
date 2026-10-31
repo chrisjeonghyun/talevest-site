@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-31T05:07:21.928931+00:00",
+  "updatedAt": "2026-10-31T06:07:21.063125+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "q-2sA8Li3NM",
+      "title": "연금 세액공제 15%와 12%, 갈리는 건 소득 기준입니다",
+      "publishedAt": "2026-10-31T06:00:39Z",
+      "duration": "PT49S",
+      "kind": "shorts",
+      "episode": "REPACK-S2B055-7620",
+      "url": "https://www.youtube.com/watch?v=q-2sA8Li3NM"
+    },
     {
       "id": "4C6AJFBhgeM",
       "title": "민수도 연금 세액공제 15%일까?",
@@ -93,6 +102,15 @@
       "kind": "shorts",
       "episode": "S2B040",
       "url": "https://www.youtube.com/watch?v=YKz0xHM9f2k"
+    },
+    {
+      "id": "lpAxXRokT7U",
+      "title": "하이닉스 영업이익 38% 늘고 순이익 58% 줄었다",
+      "publishedAt": "2026-10-28T09:00:40Z",
+      "duration": "PT1M15S",
+      "kind": "shorts",
+      "episode": "FRESH-20261028-1500",
+      "url": "https://www.youtube.com/watch?v=lpAxXRokT7U"
     },
     {
       "id": "82txkmvLq2g",
@@ -311,13 +329,13 @@
       "url": "https://www.youtube.com/watch?v=jO7avWSJZm4"
     },
     {
-      "id": "BABZtbbhQ7Q",
-      "title": "반도체와 전력 ETF, 두 개를 샀는데 위험은 나뉘었을까?",
-      "publishedAt": "2026-10-21T11:00:15Z",
-      "duration": "PT7M47S",
-      "kind": "longform",
-      "episode": "LF-AI-POWER-STRUCTURE",
-      "url": "https://www.youtube.com/watch?v=BABZtbbhQ7Q"
+      "id": "y41jzvu-W-4",
+      "title": "100달러 보낸 민수, 왜 95달러만 왔을까?",
+      "publishedAt": "2026-10-21T10:00:03Z",
+      "duration": "PT1M22S",
+      "kind": "shorts",
+      "episode": "S2B048",
+      "url": "https://www.youtube.com/watch?v=y41jzvu-W-4"
     },
     {
       "id": "Pe_VuUxScbg",
