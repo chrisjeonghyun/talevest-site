@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-31T22:07:21.144176+00:00",
+  "updatedAt": "2026-10-31T23:07:21.030448+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "V2qFbEZQ3Uw",
+      "title": "안전하다고 읽은 이름, 현금과 같은 돈일까?",
+      "publishedAt": "2026-10-31T22:30:02Z",
+      "duration": "PT53S",
+      "kind": "shorts",
+      "episode": "NEW-20261101-1900",
+      "url": "https://www.youtube.com/watch?v=V2qFbEZQ3Uw"
+    },
     {
       "id": "7q-UklBKZt8",
       "title": "앤트로픽 매출 14배, 왜 순손실은 807억 달러일까",
