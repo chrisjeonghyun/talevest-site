@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-10-31T00:07:22.036969+00:00",
+  "updatedAt": "2026-10-31T01:07:21.714796+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -104,13 +104,13 @@
       "url": "https://www.youtube.com/watch?v=UWn8HYuwouI"
     },
     {
-      "id": "lpAxXRokT7U",
-      "title": "하이닉스 영업이익 38% 늘고 순이익 58% 줄었다",
-      "publishedAt": "2026-10-28T09:00:40Z",
-      "duration": "PT1M15S",
+      "id": "82txkmvLq2g",
+      "title": "ETF 이름은 같은데, 내 수익도 같을까?",
+      "publishedAt": "2026-10-28T00:00:04Z",
+      "duration": "PT42S",
       "kind": "shorts",
-      "episode": "FRESH-20261028-1500",
-      "url": "https://www.youtube.com/watch?v=lpAxXRokT7U"
+      "episode": "NEW-20261028-0900",
+      "url": "https://www.youtube.com/watch?v=82txkmvLq2g"
     },
     {
       "id": "22P2ejaQwmI",
@@ -365,15 +365,6 @@
       "url": "https://www.youtube.com/watch?v=qZYuLPX7gJs"
     },
     {
-      "id": "WJC4JVynXz8",
-      "title": "주가 하락, 물가와 AI 투자 부담을 내 계좌로 읽기",
-      "publishedAt": "2026-10-20T11:00:36Z",
-      "duration": "PT10M49S",
-      "kind": "longform",
-      "episode": "LF-MARKET-EXPLAIN",
-      "url": "https://www.youtube.com/watch?v=WJC4JVynXz8"
-    },
-    {
       "id": "ixVMESXg-wk",
       "title": "리먼, 자산이 있어도 왜 현금이 막혔나?",
       "publishedAt": "2026-10-20T10:00:35Z",
@@ -435,6 +426,15 @@
       "kind": "shorts",
       "episode": "S2B044",
       "url": "https://www.youtube.com/watch?v=pYQ7UqmsgWc"
+    },
+    {
+      "id": "CRdgiT8QUIQ",
+      "title": "추가로 안 샀는데 왜 위험은 커질까?",
+      "publishedAt": "2026-10-19T03:00:20Z",
+      "duration": "PT18S",
+      "kind": "shorts",
+      "episode": "LF-NPS-REBALANCING-20261016-HL01",
+      "url": "https://www.youtube.com/watch?v=CRdgiT8QUIQ"
     },
     {
       "id": "NrhBwUk3cpA",
@@ -795,6 +795,15 @@
       "kind": "shorts",
       "episode": "S2B013",
       "url": "https://www.youtube.com/watch?v=NgOtyRGyYGE"
+    },
+    {
+      "id": "ZbHqEJsIycw",
+      "title": "SVB 뱅크런 원인 | 하루 400억 달러, 실리콘밸리은행은 왜 못 막았나",
+      "publishedAt": "2026-10-07T11:00:23Z",
+      "duration": "PT8M44S",
+      "kind": "longform",
+      "episode": "S3C03",
+      "url": "https://www.youtube.com/watch?v=ZbHqEJsIycw"
     },
     {
       "id": "jm--6lQJBXc",
