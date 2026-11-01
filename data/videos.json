@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-01T22:07:21.485824+00:00",
+  "updatedAt": "2026-11-01T23:07:21.480625+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "wq7Qe0EjDVs",
+      "title": "거래가 많으면, 원하는 가격에 팔 수 있을까?",
+      "publishedAt": "2026-11-01T22:30:26Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "NEW-20261102-1900",
+      "url": "https://www.youtube.com/watch?v=wq7Qe0EjDVs"
+    },
     {
       "id": "JwaOio973YE",
       "title": "승진해도 대출금리는 자동으로 내려가지 않습니다",
