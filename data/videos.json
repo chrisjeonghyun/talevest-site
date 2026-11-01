@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-01T05:07:21.442156+00:00",
+  "updatedAt": "2026-11-01T06:07:21.324617+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "JwaOio973YE",
+      "title": "승진해도 대출금리는 자동으로 내려가지 않습니다",
+      "publishedAt": "2026-11-01T06:00:09Z",
+      "duration": "PT43S",
+      "kind": "shorts",
+      "episode": "REPACK-S2B053-7620",
+      "url": "https://www.youtube.com/watch?v=JwaOio973YE"
+    },
     {
       "id": "dYGynxp2Gik",
       "title": "주가가 싼데, 회사도 더 싼 걸까?",
