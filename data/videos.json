@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-02T05:07:21.746835+00:00",
+  "updatedAt": "2026-11-02T06:07:22.072882+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "V3I4wdg-1pE",
+      "title": "채권 이자 3만 원, 새로 번 돈은 1,000원일 수 있습니다",
+      "publishedAt": "2026-11-02T06:00:34Z",
+      "duration": "PT44S",
+      "kind": "shorts",
+      "episode": "REPACK-S2B040-7620",
+      "url": "https://www.youtube.com/watch?v=V3I4wdg-1pE"
+    },
     {
       "id": "wpAFKpKwwV4",
       "title": "호텔 보증금이 빠졌는데, 결제까지 된 걸까?",
