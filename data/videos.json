@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-02T22:07:22.127373+00:00",
+  "updatedAt": "2026-11-02T23:07:22.072267+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "FtcUfFlc7J8",
+      "title": "민수의 의료비, 전부 공제 대상일까?",
+      "publishedAt": "2026-11-02T22:30:38Z",
+      "duration": "PT54S",
+      "kind": "shorts",
+      "episode": "S2B058",
+      "url": "https://www.youtube.com/watch?v=FtcUfFlc7J8"
+    },
     {
       "id": "L9H_r-PDFWg",
       "title": "주간 내 돈 브리핑 4 세금 납부와 서류 제출의 다른 날짜",
