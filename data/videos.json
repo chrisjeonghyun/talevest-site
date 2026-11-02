@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-02T10:07:22.808584+00:00",
+  "updatedAt": "2026-11-02T11:07:22.298341+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "L9H_r-PDFWg",
+      "title": "주간 내 돈 브리핑 4 세금 납부와 서류 제출의 다른 날짜",
+      "publishedAt": "2026-11-02T11:00:12Z",
+      "duration": "PT10M47S",
+      "kind": "longform",
+      "episode": "WB004",
+      "url": "https://www.youtube.com/watch?v=L9H_r-PDFWg"
+    },
     {
       "id": "V3I4wdg-1pE",
       "title": "채권 이자 3만 원, 새로 번 돈은 1,000원일 수 있습니다",
