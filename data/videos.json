@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-01T23:07:21.480625+00:00",
+  "updatedAt": "2026-11-02T00:07:22.357681+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "wpAFKpKwwV4",
+      "title": "호텔 보증금이 빠졌는데, 결제까지 된 걸까?",
+      "publishedAt": "2026-11-02T00:00:20Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "NEW-20261102-0900",
+      "url": "https://www.youtube.com/watch?v=wpAFKpKwwV4"
+    },
     {
       "id": "wq7Qe0EjDVs",
       "title": "거래가 많으면, 원하는 가격에 팔 수 있을까?",
