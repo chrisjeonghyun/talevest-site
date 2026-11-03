@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-03T06:07:25.305930+00:00",
+  "updatedAt": "2026-11-03T07:07:25.692003+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -345,6 +345,15 @@
       "kind": "shorts",
       "episode": "CA-CDMO-20261026-P",
       "url": "https://www.youtube.com/watch?v=0331vYwOCJk"
+    },
+    {
+      "id": "44dujHnWThU",
+      "title": "민수는 세율을 연봉에 곱해도 될까?",
+      "publishedAt": "2026-10-24T00:00:32Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "S2B059",
+      "url": "https://www.youtube.com/watch?v=44dujHnWThU"
     },
     {
       "id": "RgiZ0R16zcQ",
@@ -1445,15 +1454,6 @@
       "url": "https://www.youtube.com/watch?v=Xk_QPrv6aZY"
     },
     {
-      "id": "gd_axkVSKjM",
-      "title": "[주가지수] 같은 지수, 다른 힘",
-      "publishedAt": "2026-09-07T10:00:23Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "T003",
-      "url": "https://www.youtube.com/watch?v=gd_axkVSKjM"
-    },
-    {
       "id": "vsGVmrSKaKY",
       "title": "[코스피200 ETF] 이 상품에 넣은 돈의 4분의 1이 한 회사로 갑니다",
       "publishedAt": "2026-09-04T10:00:10Z",
@@ -1461,6 +1461,15 @@
       "kind": "shorts",
       "episode": "EP001",
       "url": "https://www.youtube.com/watch?v=vsGVmrSKaKY"
+    },
+    {
+      "id": "wUY7SVvbn0Q",
+      "title": "[서킷브레이커·사이드카] 매도 버튼이 죽었습니다",
+      "publishedAt": "2026-09-03T12:30:34Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "T018",
+      "url": "https://www.youtube.com/watch?v=wUY7SVvbn0Q"
     },
     {
       "id": "boIYad8806A",
