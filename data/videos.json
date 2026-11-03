@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-03T05:07:24.460295+00:00",
+  "updatedAt": "2026-11-03T06:07:25.305930+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "QzFvSNorWFA",
+      "title": "환불 끝나도 카드 명세서에는 금액이 남을 수 있습니다",
+      "publishedAt": "2026-11-03T06:00:35Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "REPACK-NEW-20261030-1900-7620",
+      "url": "https://www.youtube.com/watch?v=QzFvSNorWFA"
+    },
     {
       "id": "D4RgwKZWlJw",
       "title": "결제일만 옮기면, 부족한 잔고도 해결될까?",
@@ -338,15 +347,6 @@
       "url": "https://www.youtube.com/watch?v=0331vYwOCJk"
     },
     {
-      "id": "44dujHnWThU",
-      "title": "민수는 세율을 연봉에 곱해도 될까?",
-      "publishedAt": "2026-10-24T00:00:32Z",
-      "duration": "PT50S",
-      "kind": "shorts",
-      "episode": "S2B059",
-      "url": "https://www.youtube.com/watch?v=44dujHnWThU"
-    },
-    {
       "id": "RgiZ0R16zcQ",
       "title": "영국 연금 LDI 위기, 650억 파운드는 무엇이었나 | 담보 요구와 현금의 시간표",
       "publishedAt": "2026-10-23T11:00:36Z",
@@ -372,6 +372,15 @@
       "kind": "shorts",
       "episode": "REAL-SVB",
       "url": "https://www.youtube.com/watch?v=uz334xd0l4M"
+    },
+    {
+      "id": "q4gJGKQMl2o",
+      "title": "[속보] 테슬라 매출은 비슷한데, 영업이익은 왜 줄었을까?",
+      "publishedAt": "2026-10-23T03:00:24Z",
+      "duration": "PT1M3S",
+      "kind": "shorts",
+      "episode": "BR-TSLA-EARNINGS-20261022",
+      "url": "https://www.youtube.com/watch?v=q4gJGKQMl2o"
     },
     {
       "id": "pkdR8xEKRwQ",
@@ -1461,6 +1470,15 @@
       "kind": "shorts",
       "episode": "T032",
       "url": "https://www.youtube.com/watch?v=boIYad8806A"
+    },
+    {
+      "id": "O44B06FpsB4",
+      "title": "[상한가·하한가] 상한가 다음 날 벌어지는 일",
+      "publishedAt": "2026-09-03T03:00:08Z",
+      "duration": "PT30S",
+      "kind": "shorts",
+      "episode": "T017",
+      "url": "https://www.youtube.com/watch?v=O44B06FpsB4"
     },
     {
       "id": "zinDYmvxpuE",
