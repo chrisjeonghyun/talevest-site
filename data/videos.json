@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-02T23:07:22.072267+00:00",
+  "updatedAt": "2026-11-03T00:07:22.320424+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "D4RgwKZWlJw",
+      "title": "결제일만 옮기면, 부족한 잔고도 해결될까?",
+      "publishedAt": "2026-11-03T00:00:15Z",
+      "duration": "PT58S",
+      "kind": "shorts",
+      "episode": "NEW-20261103-0900",
+      "url": "https://www.youtube.com/watch?v=D4RgwKZWlJw"
+    },
     {
       "id": "FtcUfFlc7J8",
       "title": "민수의 의료비, 전부 공제 대상일까?",
