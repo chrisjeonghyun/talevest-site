@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-03T04:07:26.274429+00:00",
+  "updatedAt": "2026-11-03T05:07:24.460295+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -363,6 +363,15 @@
       "kind": "shorts",
       "episode": "S2B045",
       "url": "https://www.youtube.com/watch?v=j6KhFxX-2NI"
+    },
+    {
+      "id": "uz334xd0l4M",
+      "title": "SVB에서는 왜 예금이 한꺼번에 빠졌나?",
+      "publishedAt": "2026-10-23T06:00:23Z",
+      "duration": "PT49S",
+      "kind": "shorts",
+      "episode": "REAL-SVB",
+      "url": "https://www.youtube.com/watch?v=uz334xd0l4M"
     },
     {
       "id": "pkdR8xEKRwQ",
@@ -1202,6 +1211,15 @@
       "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
     },
     {
+      "id": "tn8TwLblYF4",
+      "title": "아케고스 사태, 먼저 판 은행이 덜 잃은 이유",
+      "publishedAt": "2026-09-27T00:00:12Z",
+      "duration": "PT14S",
+      "kind": "shorts",
+      "episode": "S3C01-HL01",
+      "url": "https://www.youtube.com/watch?v=tn8TwLblYF4"
+    },
+    {
       "id": "xb4YYpqR168",
       "title": "[닉 리슨·베어링스] 계좌 88888이 무너뜨린 은행",
       "publishedAt": "2026-09-26T11:00:07Z",
@@ -1434,15 +1452,6 @@
       "kind": "shorts",
       "episode": "EP001",
       "url": "https://www.youtube.com/watch?v=vsGVmrSKaKY"
-    },
-    {
-      "id": "wUY7SVvbn0Q",
-      "title": "[서킷브레이커·사이드카] 매도 버튼이 죽었습니다",
-      "publishedAt": "2026-09-03T12:30:34Z",
-      "duration": "PT50S",
-      "kind": "shorts",
-      "episode": "T018",
-      "url": "https://www.youtube.com/watch?v=wUY7SVvbn0Q"
     },
     {
       "id": "boIYad8806A",
