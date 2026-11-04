@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T09:07:24.571288+00:00",
+  "updatedAt": "2026-11-04T10:07:24.851628+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "bgIq-Zpz-b0",
+      "title": "매수 버튼을 눌렀는데, 왜 아직 못 샀을까?",
+      "publishedAt": "2026-11-04T10:00:05Z",
+      "duration": "PT59S",
+      "kind": "shorts",
+      "episode": "NEW-20261104-1900",
+      "url": "https://www.youtube.com/watch?v=bgIq-Zpz-b0"
+    },
     {
       "id": "4kPGDCcrk1c",
       "title": "안전한 채권과 당장 돌려줄 예금은 다릅니다",
