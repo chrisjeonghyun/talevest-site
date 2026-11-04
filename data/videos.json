@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T19:07:26.774759+00:00",
+  "updatedAt": "2026-11-04T20:07:28.734756+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -608,15 +608,6 @@
       "url": "https://www.youtube.com/watch?v=NrhBwUk3cpA"
     },
     {
-      "id": "z5ADzm26dg0",
-      "title": "국민연금 리밸런싱 유예, 정말 고점에 물렸나? 125조 감소의 진짜 쟁점",
-      "publishedAt": "2026-10-18T11:00:25Z",
-      "duration": "PT12M10S",
-      "kind": "longform",
-      "episode": "LF-NPS-REBALANCING-20261016",
-      "url": "https://www.youtube.com/watch?v=z5ADzm26dg0"
-    },
-    {
       "id": "SpByoYgMMEM",
       "title": "0.1%p 더 준다길래",
       "publishedAt": "2026-10-18T10:00:37Z",
@@ -624,15 +615,6 @@
       "kind": "shorts",
       "episode": "TD002",
       "url": "https://www.youtube.com/watch?v=SpByoYgMMEM"
-    },
-    {
-      "id": "dPbyVPPViRU",
-      "title": "원금은 돌아왔는데, 민수의 이자는 왜 끝날까?",
-      "publishedAt": "2026-10-18T06:00:35Z",
-      "duration": "PT22S",
-      "kind": "shorts",
-      "episode": "S2B039",
-      "url": "https://www.youtube.com/watch?v=dPbyVPPViRU"
     },
     {
       "id": "Hkc532jKfIw",
