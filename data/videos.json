@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T21:07:28.311011+00:00",
+  "updatedAt": "2026-11-04T22:07:29.190298+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -59,15 +59,6 @@
       "url": "https://www.youtube.com/watch?v=D4RgwKZWlJw"
     },
     {
-      "id": "FtcUfFlc7J8",
-      "title": "민수의 의료비, 전부 공제 대상일까?",
-      "publishedAt": "2026-11-02T22:30:38Z",
-      "duration": "PT54S",
-      "kind": "shorts",
-      "episode": "S2B058",
-      "url": "https://www.youtube.com/watch?v=FtcUfFlc7J8"
-    },
-    {
       "id": "L9H_r-PDFWg",
       "title": "주간 내 돈 브리핑 4 세금 납부와 서류 제출의 다른 날짜",
       "publishedAt": "2026-11-02T11:00:12Z",
@@ -84,15 +75,6 @@
       "kind": "shorts",
       "episode": "REPACK-S2B040-7620",
       "url": "https://www.youtube.com/watch?v=V3I4wdg-1pE"
-    },
-    {
-      "id": "wpAFKpKwwV4",
-      "title": "호텔 보증금이 빠졌는데, 결제까지 된 걸까?",
-      "publishedAt": "2026-11-02T00:00:20Z",
-      "duration": "PT50S",
-      "kind": "shorts",
-      "episode": "NEW-20261102-0900",
-      "url": "https://www.youtube.com/watch?v=wpAFKpKwwV4"
     },
     {
       "id": "wq7Qe0EjDVs",
@@ -237,24 +219,6 @@
       "kind": "shorts",
       "episode": "S2B040",
       "url": "https://www.youtube.com/watch?v=YKz0xHM9f2k"
-    },
-    {
-      "id": "UWn8HYuwouI",
-      "title": "하이닉스 10.89% 올랐는데, 환율도 14원 올랐다",
-      "publishedAt": "2026-10-28T09:45:38Z",
-      "duration": "PT1M24S",
-      "kind": "shorts",
-      "episode": "FRESH-20261028-1845",
-      "url": "https://www.youtube.com/watch?v=UWn8HYuwouI"
-    },
-    {
-      "id": "lpAxXRokT7U",
-      "title": "하이닉스 영업이익 38% 늘고 순이익 58% 줄었다",
-      "publishedAt": "2026-10-28T09:00:40Z",
-      "duration": "PT1M15S",
-      "kind": "shorts",
-      "episode": "FRESH-20261028-1500",
-      "url": "https://www.youtube.com/watch?v=lpAxXRokT7U"
     },
     {
       "id": "82txkmvLq2g",
@@ -518,15 +482,6 @@
       "url": "https://www.youtube.com/watch?v=qZYuLPX7gJs"
     },
     {
-      "id": "WJC4JVynXz8",
-      "title": "주가 하락, 물가와 AI 투자 부담을 내 계좌로 읽기",
-      "publishedAt": "2026-10-20T11:00:36Z",
-      "duration": "PT10M49S",
-      "kind": "longform",
-      "episode": "LF-MARKET-EXPLAIN",
-      "url": "https://www.youtube.com/watch?v=WJC4JVynXz8"
-    },
-    {
       "id": "ixVMESXg-wk",
       "title": "리먼, 자산이 있어도 왜 현금이 막혔나?",
       "publishedAt": "2026-10-20T10:00:35Z",
@@ -590,6 +545,15 @@
       "url": "https://www.youtube.com/watch?v=pYQ7UqmsgWc"
     },
     {
+      "id": "CRdgiT8QUIQ",
+      "title": "추가로 안 샀는데 왜 위험은 커질까?",
+      "publishedAt": "2026-10-19T03:00:20Z",
+      "duration": "PT18S",
+      "kind": "shorts",
+      "episode": "LF-NPS-REBALANCING-20261016-HL01",
+      "url": "https://www.youtube.com/watch?v=CRdgiT8QUIQ"
+    },
+    {
       "id": "NrhBwUk3cpA",
       "title": "주가는 올랐는데, 원화로는 왜 줄었을까?",
       "publishedAt": "2026-10-19T00:00:29Z",
@@ -597,6 +561,15 @@
       "kind": "shorts",
       "episode": "CA009",
       "url": "https://www.youtube.com/watch?v=NrhBwUk3cpA"
+    },
+    {
+      "id": "z5ADzm26dg0",
+      "title": "국민연금 리밸런싱 유예, 정말 고점에 물렸나? 125조 감소의 진짜 쟁점",
+      "publishedAt": "2026-10-18T11:00:25Z",
+      "duration": "PT12M10S",
+      "kind": "longform",
+      "episode": "LF-NPS-REBALANCING-20261016",
+      "url": "https://www.youtube.com/watch?v=z5ADzm26dg0"
     },
     {
       "id": "SpByoYgMMEM",
@@ -941,6 +914,15 @@
       "url": "https://www.youtube.com/watch?v=NgOtyRGyYGE"
     },
     {
+      "id": "ZbHqEJsIycw",
+      "title": "SVB 뱅크런 원인 | 하루 400억 달러, 실리콘밸리은행은 왜 못 막았나",
+      "publishedAt": "2026-10-07T11:00:23Z",
+      "duration": "PT8M44S",
+      "kind": "longform",
+      "episode": "S3C03",
+      "url": "https://www.youtube.com/watch?v=ZbHqEJsIycw"
+    },
+    {
       "id": "jm--6lQJBXc",
       "title": "저축을 늦추면 같은 목돈도 얼마나 달라질까?",
       "publishedAt": "2026-10-07T10:00:19Z",
@@ -957,6 +939,15 @@
       "kind": "shorts",
       "episode": "S2B041",
       "url": "https://www.youtube.com/watch?v=M8UCp0EqvNs"
+    },
+    {
+      "id": "Jr-7XlRs5g0",
+      "title": "청년미래적금 2차 신청 전, 이 세 가지부터",
+      "publishedAt": "2026-10-07T00:00:19Z",
+      "duration": "PT51S",
+      "kind": "shorts",
+      "episode": "CA006",
+      "url": "https://www.youtube.com/watch?v=Jr-7XlRs5g0"
     },
     {
       "id": "edAjJD5Lxu8",
