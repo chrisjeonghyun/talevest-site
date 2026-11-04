@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T22:07:29.190298+00:00",
+  "updatedAt": "2026-11-04T23:07:28.528229+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "eJv28Kcek5g",
+      "title": "원유 가격이 음수면, 주유소도 돈을 줬을까?",
+      "publishedAt": "2026-11-04T22:30:31Z",
+      "duration": "PT51S",
+      "kind": "shorts",
+      "episode": "NEW-20261105-0900",
+      "url": "https://www.youtube.com/watch?v=eJv28Kcek5g"
+    },
     {
       "id": "82ucRy1m2k0",
       "title": "내 계좌 리밸런싱 실습 목표 비중과 실제 비중 맞추기",
@@ -59,6 +68,15 @@
       "url": "https://www.youtube.com/watch?v=D4RgwKZWlJw"
     },
     {
+      "id": "FtcUfFlc7J8",
+      "title": "민수의 의료비, 전부 공제 대상일까?",
+      "publishedAt": "2026-11-02T22:30:38Z",
+      "duration": "PT54S",
+      "kind": "shorts",
+      "episode": "S2B058",
+      "url": "https://www.youtube.com/watch?v=FtcUfFlc7J8"
+    },
+    {
       "id": "L9H_r-PDFWg",
       "title": "주간 내 돈 브리핑 4 세금 납부와 서류 제출의 다른 날짜",
       "publishedAt": "2026-11-02T11:00:12Z",
@@ -75,6 +93,15 @@
       "kind": "shorts",
       "episode": "REPACK-S2B040-7620",
       "url": "https://www.youtube.com/watch?v=V3I4wdg-1pE"
+    },
+    {
+      "id": "wpAFKpKwwV4",
+      "title": "호텔 보증금이 빠졌는데, 결제까지 된 걸까?",
+      "publishedAt": "2026-11-02T00:00:20Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "NEW-20261102-0900",
+      "url": "https://www.youtube.com/watch?v=wpAFKpKwwV4"
     },
     {
       "id": "wq7Qe0EjDVs",
@@ -473,13 +500,13 @@
       "url": "https://www.youtube.com/watch?v=eEaopVFy6O0"
     },
     {
-      "id": "qZYuLPX7gJs",
-      "title": "반도체 ETF vs 전력설비 ETF, 같은 돈 다른 이름?",
-      "publishedAt": "2026-10-21T00:00:39Z",
-      "duration": "PT21S",
-      "kind": "shorts",
-      "episode": "CMP-AI-POWER-20261021-P",
-      "url": "https://www.youtube.com/watch?v=qZYuLPX7gJs"
+      "id": "WJC4JVynXz8",
+      "title": "주가 하락, 물가와 AI 투자 부담을 내 계좌로 읽기",
+      "publishedAt": "2026-10-20T11:00:36Z",
+      "duration": "PT10M49S",
+      "kind": "longform",
+      "episode": "LF-MARKET-EXPLAIN",
+      "url": "https://www.youtube.com/watch?v=WJC4JVynXz8"
     },
     {
       "id": "ixVMESXg-wk",
