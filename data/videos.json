@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T03:07:23.731181+00:00",
+  "updatedAt": "2026-11-04T08:07:25.205745+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "4kPGDCcrk1c",
+      "title": "안전한 채권과 당장 돌려줄 예금은 다릅니다",
+      "publishedAt": "2026-11-04T06:00:31Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "REPACK-S3C03-Q01-7620",
+      "url": "https://www.youtube.com/watch?v=4kPGDCcrk1c"
+    },
     {
       "id": "uvVYg9UL3zo",
       "title": "묶음 할인에서 하나를 반품하면 얼마가 남을까?",
