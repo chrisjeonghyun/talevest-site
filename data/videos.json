@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T17:07:25.620169+00:00",
+  "updatedAt": "2026-11-04T18:07:25.836772+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -662,15 +662,6 @@
       "url": "https://www.youtube.com/watch?v=Hkc532jKfIw"
     },
     {
-      "id": "p2xKx_By-h8",
-      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
-      "publishedAt": "2026-10-17T07:30:34Z",
-      "duration": "PT1M41S",
-      "kind": "shorts",
-      "episode": "SC-TSMC-DEPTH-20261016",
-      "url": "https://www.youtube.com/watch?v=p2xKx_By-h8"
-    },
-    {
       "id": "6uXY0hPe9us",
       "title": "민수 앞의 높은 이자, 공짜일까?",
       "publishedAt": "2026-10-17T06:00:12Z",
@@ -1047,15 +1038,6 @@
       "kind": "shorts",
       "episode": "S2B027",
       "url": "https://www.youtube.com/watch?v=QxIZX6-ofDg"
-    },
-    {
-      "id": "hTbTeVAQgVw",
-      "title": "대출 상환 vs 투자, 100만 원 어디에 쓸까? | 내 돈 계산",
-      "publishedAt": "2026-10-04T06:55:04Z",
-      "duration": "PT11M14S",
-      "kind": "longform",
-      "episode": "DB001",
-      "url": "https://www.youtube.com/watch?v=hTbTeVAQgVw"
     },
     {
       "id": "a-rVKDrh9cs",
