@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T10:07:24.851628+00:00",
+  "updatedAt": "2026-11-04T11:07:27.506504+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "82ucRy1m2k0",
+      "title": "내 계좌 리밸런싱 실습 목표 비중과 실제 비중 맞추기",
+      "publishedAt": "2026-11-04T11:00:21Z",
+      "duration": "PT10M20S",
+      "kind": "longform",
+      "episode": "LF-PERSONAL-REBALANCING",
+      "url": "https://www.youtube.com/watch?v=82ucRy1m2k0"
+    },
     {
       "id": "bgIq-Zpz-b0",
       "title": "매수 버튼을 눌렀는데, 왜 아직 못 샀을까?",
@@ -698,15 +707,6 @@
       "url": "https://www.youtube.com/watch?v=gvCw3P3rEFs"
     },
     {
-      "id": "JWrVo7qWYGg",
-      "title": "주식 왜 떨어지나, 코스피 7.57% 급락과 미국 반등",
-      "publishedAt": "2026-10-16T07:30:40Z",
-      "duration": "PT19S",
-      "kind": "shorts",
-      "episode": "BR-MARKET-DROP-20261016",
-      "url": "https://www.youtube.com/watch?v=JWrVo7qWYGg"
-    },
-    {
       "id": "u1hyEPKjA2Y",
       "title": "민수의 카드 혜택, 연회비 본전은 언제일까?",
       "publishedAt": "2026-10-16T06:00:00Z",
@@ -716,15 +716,6 @@
       "url": "https://www.youtube.com/watch?v=u1hyEPKjA2Y"
     },
     {
-      "id": "KlXqQihhs_s",
-      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
-      "publishedAt": "2026-10-16T04:00:27Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "BR-TSMC-20261016",
-      "url": "https://www.youtube.com/watch?v=KlXqQihhs_s"
-    },
-    {
       "id": "Hsa7dWjIjII",
       "title": "민수의 대출 납입액, 왜 갑자기 뛸까?",
       "publishedAt": "2026-10-16T00:00:33Z",
@@ -732,6 +723,15 @@
       "kind": "shorts",
       "episode": "S2B018",
       "url": "https://www.youtube.com/watch?v=Hsa7dWjIjII"
+    },
+    {
+      "id": "PUW0SqE_1w8",
+      "title": "플래시크래시, 거래가 폭주한 날",
+      "publishedAt": "2026-10-15T11:00:20Z",
+      "duration": "PT9M7S",
+      "kind": "longform",
+      "episode": "S3C05",
+      "url": "https://www.youtube.com/watch?v=PUW0SqE_1w8"
     },
     {
       "id": "0cVMSswWg3w",
