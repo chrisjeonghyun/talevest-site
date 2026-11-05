@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-04T23:07:28.528229+00:00",
+  "updatedAt": "2026-11-05T00:07:31.582677+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "IbShSGRNgZw",
+      "title": "3만 원을 받아도 이자 차액은 1,000원입니다",
+      "publishedAt": "2026-11-05T00:00:11Z",
+      "duration": "PT56S",
+      "kind": "shorts",
+      "episode": "G7800-H01-A",
+      "url": "https://www.youtube.com/watch?v=IbShSGRNgZw"
+    },
     {
       "id": "eJv28Kcek5g",
       "title": "원유 가격이 음수면, 주유소도 돈을 줬을까?",
@@ -248,6 +257,15 @@
       "url": "https://www.youtube.com/watch?v=YKz0xHM9f2k"
     },
     {
+      "id": "lpAxXRokT7U",
+      "title": "하이닉스 영업이익 38% 늘고 순이익 58% 줄었다",
+      "publishedAt": "2026-10-28T09:00:40Z",
+      "duration": "PT1M15S",
+      "kind": "shorts",
+      "episode": "FRESH-20261028-1500",
+      "url": "https://www.youtube.com/watch?v=lpAxXRokT7U"
+    },
+    {
       "id": "82txkmvLq2g",
       "title": "ETF 이름은 같은데, 내 수익도 같을까?",
       "publishedAt": "2026-10-28T00:00:04Z",
@@ -453,15 +471,6 @@
       "kind": "shorts",
       "episode": "REAL-LTCM",
       "url": "https://www.youtube.com/watch?v=s6Cit5y6PFA"
-    },
-    {
-      "id": "jO7avWSJZm4",
-      "title": "연금저축과 IRP, 한도가 같을까?",
-      "publishedAt": "2026-10-22T00:00:32Z",
-      "duration": "PT1M8S",
-      "kind": "shorts",
-      "episode": "S2B054",
-      "url": "https://www.youtube.com/watch?v=jO7avWSJZm4"
     },
     {
       "id": "BABZtbbhQ7Q",
@@ -1292,15 +1301,6 @@
       "url": "https://www.youtube.com/watch?v=tY6Ojs3W6eA"
     },
     {
-      "id": "EIInCCwf0FA",
-      "title": "[아케고스] 이틀 만에 사라진 360억 달러",
-      "publishedAt": "2026-09-24T12:30:20Z",
-      "duration": "PT5M57S",
-      "kind": "longform",
-      "episode": "S3C01",
-      "url": "https://www.youtube.com/watch?v=EIInCCwf0FA"
-    },
-    {
       "id": "iIVNx7s37YM",
       "title": "대출 금리 1%p 인상, 3억원의 연 이자가 늘어나는 금액",
       "publishedAt": "2026-09-24T10:00:05Z",
@@ -1308,15 +1308,6 @@
       "kind": "shorts",
       "episode": "T041",
       "url": "https://www.youtube.com/watch?v=iIVNx7s37YM"
-    },
-    {
-      "id": "gIOT8tSWBto",
-      "title": "연준 0.25%p 인상, 내 대출·예금·환율은 언제 확인하나",
-      "publishedAt": "2026-09-24T00:00:11Z",
-      "duration": "PT48S",
-      "kind": "shorts",
-      "episode": "CA003",
-      "url": "https://www.youtube.com/watch?v=gIOT8tSWBto"
     },
     {
       "id": "q3RvoyWDKjw",
