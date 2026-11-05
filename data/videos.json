@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-05T03:07:30.447880+00:00",
+  "updatedAt": "2026-11-05T04:07:28.160665+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -399,15 +399,6 @@
       "kind": "shorts",
       "episode": "REAL-FLASH",
       "url": "https://www.youtube.com/watch?v=OmbaQHYOVSU"
-    },
-    {
-      "id": "0331vYwOCJk",
-      "title": "삼성바이오 매출 증가, 내 1주 이익도 늘었을까?",
-      "publishedAt": "2026-10-24T03:00:19Z",
-      "duration": "PT1M8S",
-      "kind": "shorts",
-      "episode": "CA-CDMO-20261026-P",
-      "url": "https://www.youtube.com/watch?v=0331vYwOCJk"
     },
     {
       "id": "44dujHnWThU",
@@ -1499,15 +1490,6 @@
       "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
     },
     {
-      "id": "tS50Z6NRNDQ",
-      "title": "[S&P 500·나스닥] 숫자가 말해주지 않는 분산",
-      "publishedAt": "2026-09-09T10:00:31Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "T005",
-      "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
-    },
-    {
       "id": "Xk_QPrv6aZY",
       "title": "[코스피·코스닥] 코스피와 코스닥의 차이",
       "publishedAt": "2026-09-08T10:00:04Z",
@@ -1515,6 +1497,15 @@
       "kind": "shorts",
       "episode": "T004",
       "url": "https://www.youtube.com/watch?v=Xk_QPrv6aZY"
+    },
+    {
+      "id": "gd_axkVSKjM",
+      "title": "[주가지수] 같은 지수, 다른 힘",
+      "publishedAt": "2026-09-07T10:00:23Z",
+      "duration": "PT27S",
+      "kind": "shorts",
+      "episode": "T003",
+      "url": "https://www.youtube.com/watch?v=gd_axkVSKjM"
     },
     {
       "id": "vsGVmrSKaKY",
