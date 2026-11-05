@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-05T09:07:27.980181+00:00",
+  "updatedAt": "2026-11-05T10:07:28.350195+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "9j-nAXjdS6Q",
+      "title": "3만 원을 받아도 이자 차액은 1,000원입니다",
+      "publishedAt": "2026-11-05T10:00:10Z",
+      "duration": "PT35S",
+      "kind": "shorts",
+      "episode": "G7800-L01-35",
+      "url": "https://www.youtube.com/watch?v=9j-nAXjdS6Q"
+    },
     {
       "id": "TXRD1rPR-tA",
       "title": "근로자녀장려금 기한 후 신청, 12월 1일 마감 전 자격 확인",
