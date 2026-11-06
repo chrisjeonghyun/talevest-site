@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T22:07:31.523982+00:00",
+  "updatedAt": "2026-11-06T23:07:32.093947+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "DE_f6M3wYSg",
+      "title": "실손보험 중복, 연36만6천원은 누구의 보험료일까",
+      "publishedAt": "2026-11-06T22:30:28Z",
+      "duration": "PT45S",
+      "kind": "shorts",
+      "episode": "G8074-LEAK-03",
+      "url": "https://www.youtube.com/watch?v=DE_f6M3wYSg"
+    },
     {
       "id": "-1B8IDKToXY",
       "title": "구독료, 안 쓰는 앱도 연 26만 4천 원 결제되는 예시",
@@ -635,15 +644,6 @@
       "url": "https://www.youtube.com/watch?v=ixVMESXg-wk"
     },
     {
-      "id": "x23_1X0jk2k",
-      "title": "넷플릭스 실적, 내 ETF에는 얼마가 움직일까?",
-      "publishedAt": "2026-10-20T07:30:12Z",
-      "duration": "PT1M11S",
-      "kind": "shorts",
-      "episode": "SC-NFLX-PREVIEW-20261018",
-      "url": "https://www.youtube.com/watch?v=x23_1X0jk2k"
-    },
-    {
       "id": "j2_vqo6AY08",
       "title": "달러 학비, 나눠 환전하면 항상 덜 들까?",
       "publishedAt": "2026-10-20T06:00:12Z",
@@ -687,6 +687,15 @@
       "kind": "shorts",
       "episode": "S2B044",
       "url": "https://www.youtube.com/watch?v=pYQ7UqmsgWc"
+    },
+    {
+      "id": "CRdgiT8QUIQ",
+      "title": "추가로 안 샀는데 왜 위험은 커질까?",
+      "publishedAt": "2026-10-19T03:00:20Z",
+      "duration": "PT18S",
+      "kind": "shorts",
+      "episode": "LF-NPS-REBALANCING-20261016-HL01",
+      "url": "https://www.youtube.com/watch?v=CRdgiT8QUIQ"
     },
     {
       "id": "NrhBwUk3cpA",
@@ -1047,6 +1056,15 @@
       "kind": "shorts",
       "episode": "S2B013",
       "url": "https://www.youtube.com/watch?v=NgOtyRGyYGE"
+    },
+    {
+      "id": "ZbHqEJsIycw",
+      "title": "SVB 뱅크런 원인 | 하루 400억 달러, 실리콘밸리은행은 왜 못 막았나",
+      "publishedAt": "2026-10-07T11:00:23Z",
+      "duration": "PT8M44S",
+      "kind": "longform",
+      "episode": "S3C03",
+      "url": "https://www.youtube.com/watch?v=ZbHqEJsIycw"
     },
     {
       "id": "jm--6lQJBXc",
