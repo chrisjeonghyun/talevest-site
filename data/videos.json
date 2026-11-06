@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-05T23:07:30.388243+00:00",
+  "updatedAt": "2026-11-06T00:07:28.581062+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "3OlBXzGiHqo",
+      "title": "3만 원을 받아도 이자 차액은 1,000원입니다",
+      "publishedAt": "2026-11-06T00:00:09Z",
+      "duration": "PT56S",
+      "kind": "shorts",
+      "episode": "G7800-H01-C",
+      "url": "https://www.youtube.com/watch?v=3OlBXzGiHqo"
+    },
     {
       "id": "whghsOgDYkg",
       "title": "애플 무료 체험, 취소는 종료 최소 24시간 전입니다",
