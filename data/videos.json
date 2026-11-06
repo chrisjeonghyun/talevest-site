@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T10:07:28.405465+00:00",
+  "updatedAt": "2026-11-06T11:07:28.281616+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Q7N6FHf1qUw",
+      "title": "호실적 다음 질문, 기업 이익이 ETF 수익으로 오는 경로",
+      "publishedAt": "2026-11-06T11:00:14Z",
+      "duration": "PT8M27S",
+      "kind": "longform",
+      "episode": "LF-TSMC-EXPANDED",
+      "url": "https://www.youtube.com/watch?v=Q7N6FHf1qUw"
+    },
     {
       "id": "wNvvZn6Gl0A",
       "title": "병원비 150만 원과 공제 대상 30만 원은 다릅니다",
