@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T05:07:28.746661+00:00",
+  "updatedAt": "2026-11-06T06:07:27.950431+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "cspG324ZigM",
+      "title": "코인과세 2년 유예 추진, 2029년은 확정일이 아닙니다",
+      "publishedAt": "2026-11-06T06:00:18Z",
+      "duration": "PT46S",
+      "kind": "shorts",
+      "episode": "G8078-COIN-20261106",
+      "url": "https://www.youtube.com/watch?v=cspG324ZigM"
+    },
     {
       "id": "0H6C2QMsPzk",
       "title": "연금저축 국세 공제율 15%, 12%, 소득 기준이 다릅니다",
