@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T02:07:29.240884+00:00",
+  "updatedAt": "2026-11-06T03:07:28.826515+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "0H6C2QMsPzk",
+      "title": "연금저축 국세 공제율 15%, 12%, 소득 기준이 다릅니다",
+      "publishedAt": "2026-11-06T03:00:08Z",
+      "duration": "PT35S",
+      "kind": "shorts",
+      "episode": "G7992-20261106-1200",
+      "url": "https://www.youtube.com/watch?v=0H6C2QMsPzk"
+    },
     {
       "id": "3OlBXzGiHqo",
       "title": "3만 원을 받아도 이자 차액은 1,000원입니다",
