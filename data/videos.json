@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T00:07:28.581062+00:00",
+  "updatedAt": "2026-11-06T01:07:30.220585+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -815,15 +815,6 @@
       "url": "https://www.youtube.com/watch?v=Hsa7dWjIjII"
     },
     {
-      "id": "PUW0SqE_1w8",
-      "title": "플래시크래시, 거래가 폭주한 날",
-      "publishedAt": "2026-10-15T11:00:20Z",
-      "duration": "PT9M7S",
-      "kind": "longform",
-      "episode": "S3C05",
-      "url": "https://www.youtube.com/watch?v=PUW0SqE_1w8"
-    },
-    {
       "id": "0cVMSswWg3w",
       "title": "월급이 통장에 머문 시간",
       "publishedAt": "2026-10-15T10:00:02Z",
@@ -1317,6 +1308,15 @@
       "kind": "shorts",
       "episode": "S3C01-HL03",
       "url": "https://www.youtube.com/watch?v=ZdHOyydfHs4"
+    },
+    {
+      "id": "joxFrUnV37E",
+      "title": "청년미래적금 10월 신청, 15%는 아직 확정 아닙니다",
+      "publishedAt": "2026-09-27T06:00:15Z",
+      "duration": "PT39S",
+      "kind": "shorts",
+      "episode": "CA001",
+      "url": "https://www.youtube.com/watch?v=joxFrUnV37E"
     },
     {
       "id": "JdH4BBsyx-g",
