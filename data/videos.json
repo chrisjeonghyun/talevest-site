@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T09:07:27.801934+00:00",
+  "updatedAt": "2026-11-06T10:07:28.405465+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "wNvvZn6Gl0A",
+      "title": "병원비 150만 원과 공제 대상 30만 원은 다릅니다",
+      "publishedAt": "2026-11-06T10:00:00Z",
+      "duration": "PT35S",
+      "kind": "shorts",
+      "episode": "G7800-L02-35",
+      "url": "https://www.youtube.com/watch?v=wNvvZn6Gl0A"
+    },
     {
       "id": "cspG324ZigM",
       "title": "코인과세 2년 유예 추진, 2029년은 확정일이 아닙니다",
