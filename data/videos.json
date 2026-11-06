@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T01:07:30.220585+00:00",
+  "updatedAt": "2026-11-06T02:07:29.240884+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -795,15 +795,6 @@
       "kind": "shorts",
       "episode": "S2B026",
       "url": "https://www.youtube.com/watch?v=u1hyEPKjA2Y"
-    },
-    {
-      "id": "KlXqQihhs_s",
-      "title": "TSMC 호실적, 내 반도체 ETF도 오를까?",
-      "publishedAt": "2026-10-16T04:00:27Z",
-      "duration": "PT27S",
-      "kind": "shorts",
-      "episode": "BR-TSMC-20261016",
-      "url": "https://www.youtube.com/watch?v=KlXqQihhs_s"
     },
     {
       "id": "Hsa7dWjIjII",
