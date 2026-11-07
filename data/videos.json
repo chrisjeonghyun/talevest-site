@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-06T23:07:32.093947+00:00",
+  "updatedAt": "2026-11-07T00:07:31.622681+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "U4bCuFr2dTo",
+      "title": "의료비 150만 원을 내도 전부 돌려받는 것은 아닙니다",
+      "publishedAt": "2026-11-07T00:00:33Z",
+      "duration": "PT56S",
+      "kind": "shorts",
+      "episode": "G7800-H02-B",
+      "url": "https://www.youtube.com/watch?v=U4bCuFr2dTo"
+    },
     {
       "id": "DE_f6M3wYSg",
       "title": "실손보험 중복, 연36만6천원은 누구의 보험료일까",
