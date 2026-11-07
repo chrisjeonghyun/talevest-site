@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-07T05:07:34.739252+00:00",
+  "updatedAt": "2026-11-07T06:07:33.298788+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "hXgBi9N4IVo",
+      "title": "반대매매 140% 의무 면제, 내 계좌는 별개입니다",
+      "publishedAt": "2026-11-07T06:00:36Z",
+      "duration": "PT58S",
+      "kind": "shorts",
+      "episode": "G8078-MARGIN-20261107",
+      "url": "https://www.youtube.com/watch?v=hXgBi9N4IVo"
+    },
     {
       "id": "CY7mnuBv0PY",
       "title": "비상금 100만 원, 연 이자 1만 5,000 원 차이의 조건",
@@ -230,6 +239,15 @@
       "url": "https://www.youtube.com/watch?v=V3I4wdg-1pE"
     },
     {
+      "id": "wpAFKpKwwV4",
+      "title": "호텔 보증금이 빠졌는데, 결제까지 된 걸까?",
+      "publishedAt": "2026-11-02T00:00:20Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "NEW-20261102-0900",
+      "url": "https://www.youtube.com/watch?v=wpAFKpKwwV4"
+    },
+    {
       "id": "wq7Qe0EjDVs",
       "title": "거래가 많으면, 원하는 가격에 팔 수 있을까?",
       "publishedAt": "2026-11-01T22:30:26Z",
@@ -374,22 +392,13 @@
       "url": "https://www.youtube.com/watch?v=YKz0xHM9f2k"
     },
     {
-      "id": "UWn8HYuwouI",
-      "title": "하이닉스 10.89% 올랐는데, 환율도 14원 올랐다",
-      "publishedAt": "2026-10-28T09:45:38Z",
-      "duration": "PT1M24S",
+      "id": "82txkmvLq2g",
+      "title": "ETF 이름은 같은데, 내 수익도 같을까?",
+      "publishedAt": "2026-10-28T00:00:04Z",
+      "duration": "PT42S",
       "kind": "shorts",
-      "episode": "FRESH-20261028-1845",
-      "url": "https://www.youtube.com/watch?v=UWn8HYuwouI"
-    },
-    {
-      "id": "lpAxXRokT7U",
-      "title": "하이닉스 영업이익 38% 늘고 순이익 58% 줄었다",
-      "publishedAt": "2026-10-28T09:00:40Z",
-      "duration": "PT1M15S",
-      "kind": "shorts",
-      "episode": "FRESH-20261028-1500",
-      "url": "https://www.youtube.com/watch?v=lpAxXRokT7U"
+      "episode": "NEW-20261028-0900",
+      "url": "https://www.youtube.com/watch?v=82txkmvLq2g"
     },
     {
       "id": "22P2ejaQwmI",
@@ -608,15 +617,6 @@
       "url": "https://www.youtube.com/watch?v=BABZtbbhQ7Q"
     },
     {
-      "id": "y41jzvu-W-4",
-      "title": "100달러 보낸 민수, 왜 95달러만 왔을까?",
-      "publishedAt": "2026-10-21T10:00:03Z",
-      "duration": "PT1M22S",
-      "kind": "shorts",
-      "episode": "S2B048",
-      "url": "https://www.youtube.com/watch?v=y41jzvu-W-4"
-    },
-    {
       "id": "Pe_VuUxScbg",
       "title": "엔론의 이익과 현금은 왜 달랐을까?",
       "publishedAt": "2026-10-21T06:00:09Z",
@@ -635,15 +635,6 @@
       "url": "https://www.youtube.com/watch?v=eEaopVFy6O0"
     },
     {
-      "id": "qZYuLPX7gJs",
-      "title": "반도체 ETF vs 전력설비 ETF, 같은 돈 다른 이름?",
-      "publishedAt": "2026-10-21T00:00:39Z",
-      "duration": "PT21S",
-      "kind": "shorts",
-      "episode": "CMP-AI-POWER-20261021-P",
-      "url": "https://www.youtube.com/watch?v=qZYuLPX7gJs"
-    },
-    {
       "id": "WJC4JVynXz8",
       "title": "주가 하락, 물가와 AI 투자 부담을 내 계좌로 읽기",
       "publishedAt": "2026-10-20T11:00:36Z",
@@ -660,6 +651,15 @@
       "kind": "shorts",
       "episode": "REAL-LEHMAN",
       "url": "https://www.youtube.com/watch?v=ixVMESXg-wk"
+    },
+    {
+      "id": "x23_1X0jk2k",
+      "title": "넷플릭스 실적, 내 ETF에는 얼마가 움직일까?",
+      "publishedAt": "2026-10-20T07:30:12Z",
+      "duration": "PT1M11S",
+      "kind": "shorts",
+      "episode": "SC-NFLX-PREVIEW-20261018",
+      "url": "https://www.youtube.com/watch?v=x23_1X0jk2k"
     },
     {
       "id": "j2_vqo6AY08",
@@ -1443,15 +1443,6 @@
       "kind": "shorts",
       "episode": "T041",
       "url": "https://www.youtube.com/watch?v=iIVNx7s37YM"
-    },
-    {
-      "id": "gIOT8tSWBto",
-      "title": "연준 0.25%p 인상, 내 대출·예금·환율은 언제 확인하나",
-      "publishedAt": "2026-09-24T00:00:11Z",
-      "duration": "PT48S",
-      "kind": "shorts",
-      "episode": "CA003",
-      "url": "https://www.youtube.com/watch?v=gIOT8tSWBto"
     },
     {
       "id": "q3RvoyWDKjw",
