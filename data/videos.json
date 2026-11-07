@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-07T02:07:32.556232+00:00",
+  "updatedAt": "2026-11-07T03:07:34.056138+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "CY7mnuBv0PY",
+      "title": "비상금 100만 원, 연 이자 1만 5,000 원 차이의 조건",
+      "publishedAt": "2026-11-07T03:00:28Z",
+      "duration": "PT47S",
+      "kind": "shorts",
+      "episode": "G8074-LEAK-05",
+      "url": "https://www.youtube.com/watch?v=CY7mnuBv0PY"
+    },
     {
       "id": "U4bCuFr2dTo",
       "title": "의료비 150만 원을 내도 전부 돌려받는 것은 아닙니다",
