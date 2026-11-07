@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-07T11:07:31.392104+00:00",
+  "updatedAt": "2026-11-07T12:07:31.512153+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "z2yjdmYFQKM",
+      "title": "전세 월세, 월 이자 약 30만 5천 원부터 비교하세요",
+      "publishedAt": "2026-11-07T12:00:21Z",
+      "duration": "PT46S",
+      "kind": "shorts",
+      "episode": "G8074-PROCON-01",
+      "url": "https://www.youtube.com/watch?v=z2yjdmYFQKM"
+    },
     {
       "id": "SjeM41_EWJ4",
       "title": "가상 주식 주문 1주와 체결 0주는 다릅니다",
