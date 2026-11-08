@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-08T09:07:30.785703+00:00",
+  "updatedAt": "2026-11-08T10:07:32.886772+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "KoFrn5H3Kdg",
+      "title": "유니클로 기본 택배, 주문 39,900원 미만은 배송비 3,000원입니다",
+      "publishedAt": "2026-11-08T10:00:16Z",
+      "duration": "PT1M14S",
+      "kind": "shorts",
+      "episode": "G7800-L04-85",
+      "url": "https://www.youtube.com/watch?v=KoFrn5H3Kdg"
+    },
     {
       "id": "MJGxYeI1A5U",
       "title": "분할매수 vs 1번에, 가상평가이익216만3천원의 조건",
