@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-08T05:07:31.235594+00:00",
+  "updatedAt": "2026-11-08T06:07:31.863746+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "MJGxYeI1A5U",
+      "title": "분할매수 vs 1번에, 가상평가이익216만3천원의 조건",
+      "publishedAt": "2026-11-08T06:00:05Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "G8074-PROCON-09",
+      "url": "https://www.youtube.com/watch?v=MJGxYeI1A5U"
+    },
     {
       "id": "8WjxMCDvtIQ",
       "title": "신용카드 해지, 기본연회비30만원 미환급 안내 사례",
