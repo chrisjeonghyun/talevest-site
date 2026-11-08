@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-08T02:07:31.166107+00:00",
+  "updatedAt": "2026-11-08T03:07:31.414184+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "8WjxMCDvtIQ",
+      "title": "신용카드 해지, 기본연회비30만원 미환급 안내 사례",
+      "publishedAt": "2026-11-08T03:00:34Z",
+      "duration": "PT47S",
+      "kind": "shorts",
+      "episode": "G8074-LEAK-08",
+      "url": "https://www.youtube.com/watch?v=8WjxMCDvtIQ"
+    },
     {
       "id": "x_KFVdL-XQA",
       "title": "금리인하요구권, 연50만원은 승인 조건부 계산입니다",
