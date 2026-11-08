@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-08T11:07:31.528987+00:00",
+  "updatedAt": "2026-11-08T12:07:31.333631+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "-IiwYvsE6Zc",
+      "title": "월세 세액공제 vs 전세 소득공제,102만원과240만원은 다른 돈입니다",
+      "publishedAt": "2026-11-08T12:00:38Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "G8074-PROCON-10",
+      "url": "https://www.youtube.com/watch?v=-IiwYvsE6Zc"
+    },
     {
       "id": "KoFrn5H3Kdg",
       "title": "유니클로 기본 택배, 주문 39,900원 미만은 배송비 3,000원입니다",
