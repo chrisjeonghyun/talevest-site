@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-07T23:07:32.595814+00:00",
+  "updatedAt": "2026-11-08T00:07:31.429207+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "x_KFVdL-XQA",
+      "title": "금리인하요구권, 연50만원은 승인 조건부 계산입니다",
+      "publishedAt": "2026-11-08T00:00:35Z",
+      "duration": "PT47S",
+      "kind": "shorts",
+      "episode": "G8074-LEAK-07",
+      "url": "https://www.youtube.com/watch?v=x_KFVdL-XQA"
+    },
     {
       "id": "iWRQzGBN3lk",
       "title": "적립금, 가상 구매자가 결제 때 1만 원 더 쓴 계산",
