@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-09T09:07:32.078433+00:00",
+  "updatedAt": "2026-11-09T10:07:33.297789+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "ogw5y2hsWi4",
+      "title": "가상 정액 수수료는 같아도 잔액은 100원 차이입니다",
+      "publishedAt": "2026-11-09T10:00:39Z",
+      "duration": "PT55S",
+      "kind": "shorts",
+      "episode": "G7800-L05-55",
+      "url": "https://www.youtube.com/watch?v=ogw5y2hsWi4"
+    },
     {
       "id": "Knh1zmRsRpU",
       "title": "통신요금, 36개월 가상 계약에서 빠뜨린 설치비 6만원",
