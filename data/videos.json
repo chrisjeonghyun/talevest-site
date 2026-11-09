@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-09T11:07:32.638236+00:00",
+  "updatedAt": "2026-11-09T12:07:34.168591+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "2_2NgbTLjCI",
+      "title": "보험 유지 vs 해지, 낸87만원과 보장은 따로 보세요",
+      "publishedAt": "2026-11-09T12:00:32Z",
+      "duration": "PT47S",
+      "kind": "shorts",
+      "episode": "G8074-PROCON-04",
+      "url": "https://www.youtube.com/watch?v=2_2NgbTLjCI"
+    },
     {
       "id": "oJKq4INaIS0",
       "title": "기준금리와 내 이자 사이 | 대출 금리를 바꾸는 조건",
@@ -518,6 +527,15 @@
       "url": "https://www.youtube.com/watch?v=YKz0xHM9f2k"
     },
     {
+      "id": "UWn8HYuwouI",
+      "title": "하이닉스 10.89% 올랐는데, 환율도 14원 올랐다",
+      "publishedAt": "2026-10-28T09:45:38Z",
+      "duration": "PT1M24S",
+      "kind": "shorts",
+      "episode": "FRESH-20261028-1845",
+      "url": "https://www.youtube.com/watch?v=UWn8HYuwouI"
+    },
+    {
       "id": "lpAxXRokT7U",
       "title": "하이닉스 영업이익 38% 늘고 순이익 58% 줄었다",
       "publishedAt": "2026-10-28T09:00:40Z",
@@ -698,15 +716,6 @@
       "url": "https://www.youtube.com/watch?v=q4gJGKQMl2o"
     },
     {
-      "id": "pkdR8xEKRwQ",
-      "title": "민수는 ISA를 연금으로 옮기면 한도가 늘까?",
-      "publishedAt": "2026-10-23T00:00:32Z",
-      "duration": "PT52S",
-      "kind": "shorts",
-      "episode": "S2B056",
-      "url": "https://www.youtube.com/watch?v=pkdR8xEKRwQ"
-    },
-    {
       "id": "8NZgHCfzuQA",
       "title": "테라 루나 사태, 1달러 약속은 왜 무너졌나 | 교환 규칙과 현금 상환권",
       "publishedAt": "2026-10-22T11:00:06Z",
@@ -723,6 +732,24 @@
       "kind": "shorts",
       "episode": "REPACK-005",
       "url": "https://www.youtube.com/watch?v=g9TGg65q2iQ"
+    },
+    {
+      "id": "s6Cit5y6PFA",
+      "title": "LTCM의 계산은 어디서 어긋났나?",
+      "publishedAt": "2026-10-22T06:00:27Z",
+      "duration": "PT1M18S",
+      "kind": "shorts",
+      "episode": "REAL-LTCM",
+      "url": "https://www.youtube.com/watch?v=s6Cit5y6PFA"
+    },
+    {
+      "id": "jO7avWSJZm4",
+      "title": "연금저축과 IRP, 한도가 같을까?",
+      "publishedAt": "2026-10-22T00:00:32Z",
+      "duration": "PT1M8S",
+      "kind": "shorts",
+      "episode": "S2B054",
+      "url": "https://www.youtube.com/watch?v=jO7avWSJZm4"
     },
     {
       "id": "BABZtbbhQ7Q",
@@ -1130,6 +1157,15 @@
       "url": "https://www.youtube.com/watch?v=YtnsC80uWVo"
     },
     {
+      "id": "lsHPFbiMe7o",
+      "title": "원천세 신고했는데, 납부도 끝났을까요?",
+      "publishedAt": "2026-10-12T00:00:21Z",
+      "duration": "PT29S",
+      "kind": "shorts",
+      "episode": "CA007",
+      "url": "https://www.youtube.com/watch?v=lsHPFbiMe7o"
+    },
+    {
       "id": "lJycVyOZ3Vs",
       "title": "같은 수수료, 민수는 왜 더 부담일까?",
       "publishedAt": "2026-10-11T10:00:31Z",
@@ -1517,24 +1553,6 @@
       "url": "https://www.youtube.com/watch?v=JdH4BBsyx-g"
     },
     {
-      "id": "tn8TwLblYF4",
-      "title": "아케고스 사태, 먼저 판 은행이 덜 잃은 이유",
-      "publishedAt": "2026-09-27T00:00:12Z",
-      "duration": "PT14S",
-      "kind": "shorts",
-      "episode": "S3C01-HL01",
-      "url": "https://www.youtube.com/watch?v=tn8TwLblYF4"
-    },
-    {
-      "id": "xb4YYpqR168",
-      "title": "[닉 리슨·베어링스] 계좌 88888이 무너뜨린 은행",
-      "publishedAt": "2026-09-26T11:00:07Z",
-      "duration": "PT8M13S",
-      "kind": "longform",
-      "episode": "S3C02",
-      "url": "https://www.youtube.com/watch?v=xb4YYpqR168"
-    },
-    {
       "id": "KHfwFqAxtWY",
       "title": "개인 기관 외국인 수급, 순매수 37.1조원의 함정",
       "publishedAt": "2026-09-26T10:00:31Z",
@@ -1553,6 +1571,15 @@
       "url": "https://www.youtube.com/watch?v=tY6Ojs3W6eA"
     },
     {
+      "id": "EIInCCwf0FA",
+      "title": "[아케고스] 이틀 만에 사라진 360억 달러",
+      "publishedAt": "2026-09-24T12:30:20Z",
+      "duration": "PT5M57S",
+      "kind": "longform",
+      "episode": "S3C01",
+      "url": "https://www.youtube.com/watch?v=EIInCCwf0FA"
+    },
+    {
       "id": "iIVNx7s37YM",
       "title": "대출 금리 1%p 인상, 3억원의 연 이자가 늘어나는 금액",
       "publishedAt": "2026-09-24T10:00:05Z",
@@ -1560,6 +1587,15 @@
       "kind": "shorts",
       "episode": "T041",
       "url": "https://www.youtube.com/watch?v=iIVNx7s37YM"
+    },
+    {
+      "id": "gIOT8tSWBto",
+      "title": "연준 0.25%p 인상, 내 대출·예금·환율은 언제 확인하나",
+      "publishedAt": "2026-09-24T00:00:11Z",
+      "duration": "PT48S",
+      "kind": "shorts",
+      "episode": "CA003",
+      "url": "https://www.youtube.com/watch?v=gIOT8tSWBto"
     },
     {
       "id": "q3RvoyWDKjw",
