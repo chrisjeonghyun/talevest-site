@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-09T05:07:33.060818+00:00",
+  "updatedAt": "2026-11-09T06:07:34.103844+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "Knh1zmRsRpU",
+      "title": "통신요금, 36개월 가상 계약에서 빠뜨린 설치비 6만원",
+      "publishedAt": "2026-11-09T06:00:16Z",
+      "duration": "PT1M27S",
+      "kind": "shorts",
+      "episode": "NEW-20261109-1900",
+      "url": "https://www.youtube.com/watch?v=Knh1zmRsRpU"
+    },
     {
       "id": "fjP4TkNj5fw",
       "title": "연금저축, 가상 근로자 민수가 연말정산 때 국세 90만 원 공제 계산",
