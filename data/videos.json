@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-09T10:07:33.297789+00:00",
+  "updatedAt": "2026-11-09T11:07:32.638236+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "oJKq4INaIS0",
+      "title": "기준금리와 내 이자 사이 | 대출 금리를 바꾸는 조건",
+      "publishedAt": "2026-11-09T11:00:35Z",
+      "duration": "PT9M17S",
+      "kind": "longform",
+      "episode": "LF-INTEREST-CONTRACT-20261109",
+      "url": "https://www.youtube.com/watch?v=oJKq4INaIS0"
+    },
     {
       "id": "ogw5y2hsWi4",
       "title": "가상 정액 수수료는 같아도 잔액은 100원 차이입니다",
