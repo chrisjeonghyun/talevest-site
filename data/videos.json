@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-09T22:07:33.256688+00:00",
+  "updatedAt": "2026-11-09T23:07:33.368102+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "OVHtAwSxGdc",
+      "title": "호텔 보증금, 줄어든 한도만으로 이중결제를 판단하지 마세요",
+      "publishedAt": "2026-11-09T22:30:00Z",
+      "duration": "PT50S",
+      "kind": "shorts",
+      "episode": "G7992-20261110-0730",
+      "url": "https://www.youtube.com/watch?v=OVHtAwSxGdc"
+    },
     {
       "id": "2_2NgbTLjCI",
       "title": "보험 유지 vs 해지, 낸87만원과 보장은 따로 보세요",
