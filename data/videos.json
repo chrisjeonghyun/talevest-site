@@ -1,7 +1,7 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-10T06:07:38.060533+00:00",
+  "updatedAt": "2026-11-10T07:07:35.365178+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
     {
@@ -696,6 +696,15 @@
       "kind": "shorts",
       "episode": "REAL-FLASH",
       "url": "https://www.youtube.com/watch?v=OmbaQHYOVSU"
+    },
+    {
+      "id": "0331vYwOCJk",
+      "title": "삼성바이오 매출 증가, 내 1주 이익도 늘었을까?",
+      "publishedAt": "2026-10-24T03:00:19Z",
+      "duration": "PT1M8S",
+      "kind": "shorts",
+      "episode": "CA-CDMO-20261026-P",
+      "url": "https://www.youtube.com/watch?v=0331vYwOCJk"
     },
     {
       "id": "44dujHnWThU",
@@ -1778,13 +1787,13 @@
       "url": "https://www.youtube.com/watch?v=Df-GRjTy9ak"
     },
     {
-      "id": "7bLb1ssYj9A",
-      "title": "[IPO] 공모가는 약속이 아니다",
-      "publishedAt": "2026-09-10T10:00:24Z",
-      "duration": "PT28S",
+      "id": "tS50Z6NRNDQ",
+      "title": "[S&P 500·나스닥] 숫자가 말해주지 않는 분산",
+      "publishedAt": "2026-09-09T10:00:31Z",
+      "duration": "PT27S",
       "kind": "shorts",
-      "episode": "T006",
-      "url": "https://www.youtube.com/watch?v=7bLb1ssYj9A"
+      "episode": "T005",
+      "url": "https://www.youtube.com/watch?v=tS50Z6NRNDQ"
     },
     {
       "id": "Xk_QPrv6aZY",
