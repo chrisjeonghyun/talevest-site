@@ -1,9 +1,18 @@
 {
   "channelId": "UCcZuOr9wmqGxqaGVIwrTqGA",
   "channelUrl": "https://www.youtube.com/channel/UCcZuOr9wmqGxqaGVIwrTqGA",
-  "updatedAt": "2026-11-10T02:07:33.933531+00:00",
+  "updatedAt": "2026-11-10T03:07:34.322882+00:00",
   "source": "YouTube Data API / cost_tracker / public-only",
   "videos": [
+    {
+      "id": "eoRQaxaHmJU",
+      "title": "LME 니켈 2022년 3월 8일, 체결된 거래도 취소됐습니다",
+      "publishedAt": "2026-11-10T03:00:05Z",
+      "duration": "PT35S",
+      "kind": "shorts",
+      "episode": "G7992-20261108-1200",
+      "url": "https://www.youtube.com/watch?v=eoRQaxaHmJU"
+    },
     {
       "id": "qkv25h-lDjE",
       "title": "현재가치, 같은 100만 원도 왜 받는 때가 중요할까?",
